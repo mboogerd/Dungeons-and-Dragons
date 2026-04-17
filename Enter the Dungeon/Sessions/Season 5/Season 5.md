@@ -74,6 +74,20 @@ The season closes in [[Silverymoon]], where the party discovers that Drow raids 
 - Grief, acceptance, and restoration as sources of strength
 - The shift from adventurers to organizers of a broader resistance
 
+## Major Character Threads
+
+### Lyra
+- Lyra becomes the clearest personal bridge between CSI and the [[Feywild]].
+- Her relationship with [[Ariana]] and the [[Sluitsteen]]-related artifact crisis pushes her toward a much more central mythic role.
+
+### Torden
+- Torden's storm-marked arc continues to deepen through dreams, symbols, and the recovered prayer to [[Zoros]].
+- Season 5 strengthens the sense that his conflict with destructive power is not going away.
+
+### CSI as a whole
+- More than any earlier season, Season 5 turns CSI into a strategic network rather than just a field party.
+- Agents, allies, anchor points, and inter-city coordination start to matter as much as direct adventuring.
+
 ## Important Introductions and Revelations
 - [[Solitaire Shard]] is confirmed as a dangerous piece of [[Chardalyn]] linked to rifts and Far Realm corruption.
 - [[Ariana]] and [[Harmony's heart]] become central allies.
@@ -88,7 +102,7 @@ The season closes in [[Silverymoon]], where the party discovers that Drow raids 
 - [[S05E03]]: ERK murder investigation and discovery of infiltration networks
 - [[S05E04]]-[[S05E05]]: Paliset Hall ball, simulacrum plot, rescue of [[Zorhanne Adulare]]
 - [[S05E06]]-[[S05E07]]: the seasonal trials and arrival in [[Harmony's heart]]
-- [[S05E08]]-[[S05E09]]: Ginder expedition, tower approach, and circus/hag threat
+- [[S05E08]]-[[S05E09]]: Ginder expedition, tower approach, and circus or hag threat
 - [[S05E10]]: Ariana's ball, gifts, and return to Waterdeep with the keystone plan
 - [[S05E11]]-[[S05E12]]: campaign pivot to agents and alliances, then the opening of the Silverymoon Mythal arc
 

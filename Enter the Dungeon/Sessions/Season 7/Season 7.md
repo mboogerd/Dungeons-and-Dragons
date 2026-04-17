@@ -1,7 +1,7 @@
 # Season 7 Summary
 
 > [!note]
-> This is an **in-progress season summary**. Season 7 is not finished yet, so this note summarizes the arc **so far** and treats current threads as active.
+> This is an **in-progress season summary**. Season 7 is not finished yet, so this note summarizes the arc so far and treats current threads as active.
 
 Season 7 opens in immediate crisis. The party returns from [[Ythryn]] only to learn that [[Alma]] has been captured in [[Cormyr]] and that [[Rince]] has gone in after her. What follows is a fast-moving covert operations season: hijacking a [[Neonetheril]] airship, infiltrating [[Suzail]], surviving a train heist, building a local resistance network, and mounting a high-risk extraction from the embassy itself.
 
@@ -50,7 +50,7 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - Back at the safehouse, [[Rince]] explains what happened during the failed embassy infiltration with [[Alma]].
 - The pair had tried to use a religious gathering and diplomatic access as cover.
 - Instead, they were identified, separated, and subjected to imprisonment and torture.
-- Rince's account strongly suggests they were expected or betrayed, reinforcing the idea that the embassy and the local cult/political structure are tightly coordinated.
+- Rince's account strongly suggests they were expected or betrayed, reinforcing the idea that the embassy and the local cult or political structure are tightly coordinated.
 
 ### Building the embassy rescue
 - Session 3 pivots into a structured preparation phase rather than a direct attack.
@@ -65,18 +65,18 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 ### Embassy infiltration and Alma rescue
 - CSI finally infiltrates the embassy under cover, using invisibility, forged identities, and manipulated guards.
 - They find [[Alma]] imprisoned below the embassy and successfully extract her.
-- The escape exposes more of the real enemy structure in the building, including the ambassador [[Arkady Mirov Karsin]] and the dangerous veteran/enforcer [[Serafim]].
+- The escape exposes more of the real enemy structure in the building, including the ambassador [[Arkady Mirov Karsin]] and the dangerous veteran or enforcer [[Serafim]].
 - [[Rince]] proves highly effective during the breakout, and the party escapes with [[Word of Recall]] before the embassy can fully collapse on them.
 - This is the season's second major tactical success: both Alma and Rince are now back with CSI.
 
-## What The Season Is About So Far
+## Season Themes
 - Rapid-response espionage under wartime pressure
 - The consolidation of [[Neonetheril]] influence through diplomacy, religion, and logistics
 - [[Cormyr]] as a soft target being politically reshaped rather than simply invaded
 - The spread of [[Zoros]] ideology through institutions, transport, and state-adjacent structures
 - Rescue operations that gradually reveal a much larger conspiracy
 
-## Major Character / Party Threads
+## Major Character Threads
 
 ### Alma and Rince
 - They are the catalyst for the season.
@@ -107,7 +107,7 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - [[Suzail]] contains overlapping systems of concern:
   - the embassy
   - the royal crypte
-  - the [[Zoros]] cult/chapel
+  - the [[Zoros]] cult or chapel
   - the new royal order
 - Prisoner transport and embassy security are much more structured than simple guard duty; they are part of a disciplined state apparatus.
 - [[Arkady Mirov Karsin]] and [[Serafim]] emerge as major antagonistic figures in the Cormyr arc.
@@ -119,8 +119,6 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - [[S07E03]]: Rince's debrief, intelligence-gathering phase, embassy infiltration, and successful extraction of [[Alma]]
 
 ## Active Unresolved Threads
-
-Because Season 7 is still in progress, these remain open:
 - What exactly is happening in [[Cormyr]] beyond the embassy rescue
 - The role of the new king, [[Alidane Thorne-Obarskyr]], and whether the succession crisis is manipulated from within
 - The significance of activity around the royal crypte under [[Suzail]]
@@ -131,14 +129,14 @@ Because Season 7 is still in progress, these remain open:
 - Whether CSI can keep using the captured airship without drawing overwhelming retaliation
 - How much of the city now knows or suspects that the embassy has been infiltrated twice in quick succession
 
-## Current End State
+## End State
 
 At the current stopping point, CSI has:
 - seized an enemy airship
 - reached [[Suzail]] quickly instead of losing weeks to travel
 - recovered [[Rince]] from prisoner transfer
 - recovered [[Alma]] from the embassy
-- established a local resistance/safehouse foothold through [[Maelis]] and her network
+- established a local resistance or safehouse foothold through [[Maelis]] and her network
 
 But the larger Cormyr operation is clearly not over.
 

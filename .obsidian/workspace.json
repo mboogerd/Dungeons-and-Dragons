@@ -39,14 +39,14 @@
             "id": "6b9afa56052bf95b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Enter the Dungeon/Sessions/Season 7/Season 7.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Enter the Dungeon/Sessions/Season 4/Season 4.md",
+                "bFile": "Enter the Dungeon/Sessions/Season 4/Season 4.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Season 7"
+              "icon": "diff",
+              "title": "Diff: Season 4  (Working Tree)"
             }
           }
         ],
@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enter the Dungeon/Sessions/Season 7/Season 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Season 7"
+              "title": "Backlinks"
             }
           },
           {
@@ -221,8 +220,8 @@
   },
   "active": "6b9afa56052bf95b",
   "lastOpenFiles": [
-    "Enter the Dungeon/Sessions/Season 6/Season 6.md",
     "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+    "Enter the Dungeon/Sessions/Season 6/Season 6.md",
     "Enter the Dungeon/Sessions/Season 5/Season 5.md",
     "Enter the Dungeon/Sessions/Season 4/Season 4.md",
     "Enter the Dungeon/Deities/Zoros.md",

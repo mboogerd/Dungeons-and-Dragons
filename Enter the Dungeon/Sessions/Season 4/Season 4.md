@@ -57,9 +57,23 @@ The season also establishes several long-running goals:
 ## Season Themes
 - Power versus responsibility
 - Lost civilizations and dangerous restoration projects
-- Storm/destruction as both temptation and tool
+- Storm and destruction as both temptation and tool
 - The shift from local heroes to players in an international conflict
 - Family, identity, and belonging
+
+## Major Character Threads
+
+### Torden
+- Torden's visions and markings start becoming a central campaign thread rather than isolated omens.
+- His connection to [[Talos]], [[Zoros]], and older elemental history gives the season much of its mythic weight.
+
+### Zeno
+- Zeno's reconnection with family in Neverwinter gives the season one of its clearest personal arcs.
+- His search for belonging runs in parallel with the party's transition into a larger world conflict.
+
+### CSI as a whole
+- Season 4 is where the party stops feeling like a loose adventuring group and starts becoming an organization with allies, responsibilities, and a strategic base.
+- [[Mystshore Keep]] and Waterdeep's trust in them both matter for everything that follows.
 
 ## Important Introductions and Revelations
 - [[Neonetheril]] becomes a central campaign threat.
@@ -67,7 +81,7 @@ The season also establishes several long-running goals:
 - [[Chardalyn]] is established as a key magical material.
 - [[Zuster Eva]] emerges as a major ideological and diplomatic opponent.
 - [[Edradius]] remains a direct antagonist.
-- [[Ardyr]] is revealed as a powerful draconic ally/protector on the opposing side.
+- [[Ardyr]] is revealed as a powerful draconic ally or protector on the opposing side.
 - Icewind Dale, the goliath clans, and the legacy of [[Zoros]] become core parts of the campaign's mythic background.
 
 ## Notable Sessions
@@ -81,7 +95,7 @@ The season also establishes several long-running goals:
 
 ## End State
 
-By the end of Season 4, CSI has moved beyond cleanup and local heroics. The party now has:
+By the end of Season 4, CSI has:
 - a strategic base in Waterdeep
 - a clearer picture of the threat posed by [[Neonetheril]]
 - a strong lead on the importance of [[Chardalyn]] and the [[Sluitsteen]]
