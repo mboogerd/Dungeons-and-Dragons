@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Enter the Dungeon/Sessions/Season 4/Season 4.md",
-                "bFile": "Enter the Dungeon/Sessions/Season 4/Season 4.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Season 4  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "6b9afa56052bf95b",
   "lastOpenFiles": [
+    "Enter the Dungeon/Sessions/Sessions.md",
     "Enter the Dungeon/Sessions/Season 7/Season 7.md",
     "Enter the Dungeon/Sessions/Season 6/Season 6.md",
     "Enter the Dungeon/Sessions/Season 5/Season 5.md",
@@ -260,7 +261,6 @@
     "The Shattered Crown/Counsel of the Solstice.md",
     "Het mysterie van Dyn Singh/Het mysterie van Dyn Singh.md",
     "Enter the Dungeon/Sessions/Season 7/S07E03.md",
-    "Enter the Dungeon/Locations/Faerun/Silverymoon/Moonwood.md",
     "IMG_3293.heic",
     "Untitled",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail",
