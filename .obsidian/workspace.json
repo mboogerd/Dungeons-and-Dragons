@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "Enter the Dungeon/People/Elena Voronina.md",
+                "bFile": "Enter the Dungeon/People/Elena Voronina.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: Elena Voronina  (Working Tree)"
             }
           }
         ],
@@ -218,9 +218,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55277b0a43429ab3",
+  "active": "6b9afa56052bf95b",
   "lastOpenFiles": [
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Oud Heiligdom.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Ambassade van Neonetheril.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Het huis van zeven vaandels.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/King's Cross Station.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Suzail.md",
+    "Enter the Dungeon/People/Mikhail Dorn.md",
+    "Enter the Dungeon/People/Gregor Malenkov.md",
+    "Enter the Dungeon/People/Elena Voronina.md",
+    "Enter the Dungeon/Locations/Faerun/Silverymoon/Silverymoon.md",
     "Enter the Dungeon/People/Lysa Fenmark.md",
     "Enter the Dungeon/People/Garrick Thorne.md",
     "Enter the Dungeon/People/Serafim.md",
@@ -241,26 +249,18 @@
     "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
     "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
     "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",
-    "Helior.md",
-    "Gallery.md",
-    "Feudal Asia/People/Iridex.md",
     "Images/map-6.1-caves-of-hunger-player.jpg",
-    "Enter the Dungeon/Locations/Faerun/Silverymoon/Silverymoon.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 4.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.md",
     "Images/players.jpeg",
     "Images/image.png",
     "Images/IMG_3293.jpeg",
-    "Feudal Asia/People/Frost.md",
-    "Enter the Dungeon/Locations/Underdark.md",
     "Images/signal-2024-12-14-171925_002.jpeg",
     "Images/Pasted image 20241002121740.png",
     "Images/Pasted image 20260307120754.png",
-    "Feudal Asia/Feudal Asia.md",
     "IMG_3293.heic",
     "Untitled",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail",
