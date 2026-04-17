@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Enter the Dungeon/People/Elena Voronina.md",
-                "bFile": "Enter the Dungeon/People/Elena Voronina.md",
+                "aFile": "Enter the Dungeon/People/Professor Emeric Koldov.md",
+                "bFile": "Enter the Dungeon/People/Professor Emeric Koldov.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Elena Voronina  (Working Tree)"
+              "title": "Diff: Professor Emeric Koldov  (Working Tree)"
             }
           }
         ],
@@ -218,8 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9afa56052bf95b",
+  "active": "55277b0a43429ab3",
   "lastOpenFiles": [
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Arabelle.md",
+    "Enter the Dungeon/People/Dorn Velak.md",
+    "Enter the Dungeon/People/Silra Moonfan.md",
+    "Enter the Dungeon/People/Retean Coln.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Koninklijke crypte.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Oud Heiligdom.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Ambassade van Neonetheril.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Het huis van zeven vaandels.md",
@@ -241,11 +246,6 @@
     "Enter the Dungeon/Deities/Zoros.md",
     "Enter the Dungeon/Sessions/Season 4/S04E04.md",
     "Enter the Dungeon/Sessions/Season 4/S04E01 (2022-10-09).md",
-    "Enter the Dungeon/Sessions/Season 4/S04E03.md",
-    "Enter the Dungeon/Sessions/Season 4/S04E02.md",
-    "Enter the Dungeon/Sessions/Season 4/S04E00.md",
-    "Enter the Dungeon/Sessions/Season 4/S04E05.md",
-    "Enter the Dungeon/Sessions/Season 4/S04E06.md",
     "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
     "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
     "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",

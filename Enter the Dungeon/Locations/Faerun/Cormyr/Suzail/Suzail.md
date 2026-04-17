@@ -18,8 +18,9 @@ Suzail wordt gepresenteerd als een rijke, goed onderhouden en streng gecontrolee
 - Een arbeiderswijk met beginnende fabrieken, magische verlichting en vergrote werkplaatsen.
 - Een belangrijk overheidsplein aan de voet van het kasteel, waar de [[Ambassade van Neonetheril]] staat.
 - Het [[Oud Heiligdom]], een grote tempel die inmiddels door de sekte van [[Zoros]] wordt gebruikt.
-- De koninklijke crypte onder de stad, waar verdachte nachtelijke activiteit is gemeld.
+- De [[Koninklijke crypte]] onder de stad, waar verdachte nachtelijke activiteit is gemeld.
 - Een groot treinstation, [[King's Cross Station]], dat deel uitmaakt van de magitech infrastructuur in en rond de stad.
+- Een safehouse in [[Het huis van zeven vaandels]], gebruikt door [[Maelis]] en haar netwerk.
 
 ## Huidige relevantie
 Suzail is op dit moment niet alleen een hoofdstad maar ook een operatiegebied.
@@ -28,3 +29,11 @@ Suzail is op dit moment niet alleen een hoofdstad maar ook een operatiegebied.
 - [[Maelis]] runt hier een safehouse vanuit [[Het huis van zeven vaandels]].
 - CSI bevrijdde hier eerst [[Rince]] via een treinheist en later [[Alma]] uit de ambassade.
 - Veel aanwijzingen wijzen erop dat diplomatie, religie, infrastructuur en staatsmacht hier in elkaar grijpen ten gunste van [[Neonetheril]].
+
+## Zie ook
+- [[Cormyr]]
+- [[Ambassade van Neonetheril]]
+- [[Oud Heiligdom]]
+- [[Koninklijke crypte]]
+- [[King's Cross Station]]
+- [[Het huis van zeven vaandels]]

@@ -29,3 +29,10 @@ tags:
 - [[Maelis]]
 - [[Alma]]
 - [[Rince]]
+- [[Dorn Velak]]
+- [[Retean Coln]]
+- [[Silra Moonfan]]
+
+## Zie ook
+- [[Suzail]]
+- [[Ambassade van Neonetheril]]
