@@ -41,12 +41,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Enter the Dungeon/People/Professor Emeric Koldov.md",
-                "bFile": "Enter the Dungeon/People/Professor Emeric Koldov.md",
+                "aFile": "Enter the Dungeon/Deities/Aros.md",
+                "bFile": "Enter the Dungeon/Deities/Aros.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Professor Emeric Koldov  (Working Tree)"
+              "title": "Diff: Aros  (Working Tree)"
             }
           }
         ],
@@ -218,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55277b0a43429ab3",
+  "active": "6b9afa56052bf95b",
   "lastOpenFiles": [
+    "Enter the Dungeon/Deities/Aros.md",
+    "Enter the Dungeon/Deities/Zoros.md",
+    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Arabelle.md",
     "Enter the Dungeon/People/Dorn Velak.md",
     "Enter the Dungeon/People/Silra Moonfan.md",
@@ -239,13 +242,10 @@
     "Enter the Dungeon/People/Serafim.md",
     "Enter the Dungeon/People/Arkady Mirov Karsin.md",
     "Enter the Dungeon/Sessions/Sessions.md",
-    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
     "Enter the Dungeon/Sessions/Season 6/Season 6.md",
     "Enter the Dungeon/Sessions/Season 5/Season 5.md",
     "Enter the Dungeon/Sessions/Season 4/Season 4.md",
-    "Enter the Dungeon/Deities/Zoros.md",
     "Enter the Dungeon/Sessions/Season 4/S04E04.md",
-    "Enter the Dungeon/Sessions/Season 4/S04E01 (2022-10-09).md",
     "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
     "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
     "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",

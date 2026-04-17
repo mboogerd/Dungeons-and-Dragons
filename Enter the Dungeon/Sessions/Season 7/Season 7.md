@@ -37,7 +37,7 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - The city is presented as wealthy, controlled, and polished on the surface, but increasingly distorted underneath.
 - CSI sees signs of industrialization, magical infrastructure, heavier state presence, and a tension between old royal order and new systems of power.
 - [[Matthew]]'s local safehouse contact, [[Maelis]], becomes central as the party establishes itself in the city.
-- The embassy, the royal crypte, the Zoros cult presence, and the unknown successor to the Cormyrean throne all remain in the background as connected pressure points.
+- The embassy, the royal crypt, the Zoros cult presence, and the unknown successor to the Cormyrean throne all remain in the background as connected pressure points.
 
 ### The train heist
 - Learning that prisoners are scheduled for transfer by train, CSI shifts from infiltration to interception.
@@ -106,7 +106,7 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - [[Neonetheril]] maintains operational dossiers on CSI and their known associates.
 - [[Suzail]] contains overlapping systems of concern:
   - the embassy
-  - the royal crypte
+  - the royal crypt
   - the [[Zoros]] cult or chapel
   - the new royal order
 - Prisoner transport and embassy security are much more structured than simple guard duty; they are part of a disciplined state apparatus.
@@ -118,10 +118,43 @@ The season so far centers on [[Suzail]], the embassy of [[Neonetheril]], the str
 - [[S07E02]]: arrival in [[Suzail]], safehouse contact with [[Maelis]], train reconnaissance, and successful rescue of [[Rince]]
 - [[S07E03]]: Rince's debrief, intelligence-gathering phase, embassy infiltration, and successful extraction of [[Alma]]
 
+## Open Quests
+- Investigate the wider [[Cormyr]] conspiracy beyond the rescue operations.
+- Determine what is really happening around the [[Koninklijke crypte]].
+- Trace the connection between the [[Koninklijke crypte]], the [[Oud Heiligdom]], and the [[Ambassade van Neonetheril]].
+- Establish whether king [[Alidane Thorne-Obarskyr]] is compromised, complicit, or being used.
+- Identify how deep [[Neonetheril|Neonetherese]] influence runs in [[Suzail]]'s political and logistical systems.
+- Debrief [[Alma]] fully and act on any intelligence she gathered before and during captivity.
+- Understand the purpose of the magitech device hidden in Torden's armor.
+- Decide whether and how CSI can safely keep using the captured enemy airship.
+
+## Promising Leads
+- [[Koninklijke crypte]]
+  - Still the clearest unresolved physical mystery in the city.
+  - Directly tied to Alma's earlier investigation and to suspicious nightly activity.
+- [[Oud Heiligdom]]
+  - Links the Zoros sect to both local citizens and embassy-facing activity.
+  - Already proven useful as an access point into the embassy network.
+- [[Arkady Mirov Karsin]] and [[Serafim]]
+  - The rescue confirmed both as central hostile actors rather than background names.
+  - Serafim in particular escaped and remains an immediate threat.
+- [[Lord Haldrim Crownsilver]]
+  - Alma flagged him early as politically suspicious.
+  - He remains one of the better leads for elite-level collusion inside Cormyr.
+- [[Professor Emeric Koldov]]
+  - Connects magitech research, genealogy, and Obarskyr bloodlines.
+  - Strong candidate for a softer target than the embassy itself.
+- [[Maelis]]' network
+  - [[Dorn Velak]], [[Retean Coln]], [[Silra Moonfan]], and [[Davven]] provide ways to expand local intelligence instead of acting blind.
+- The hidden magitech device
+  - Could reveal tracking, surveillance, internal compromise, or a larger Neonetherese operating method.
+- The captured airship and `Protocol Luminarch`
+  - Together they offer mobility, impersonation opportunities, and insight into how Neonetheril structures command and transport.
+
 ## Active Unresolved Threads
 - What exactly is happening in [[Cormyr]] beyond the embassy rescue
 - The role of the new king, [[Alidane Thorne-Obarskyr]], and whether the succession crisis is manipulated from within
-- The significance of activity around the royal crypte under [[Suzail]]
+- The significance of activity around the royal crypt under [[Suzail]]
 - The full structure of the embassy's command chain and how far its influence reaches into the city
 - The role of the [[Zoros]] cult in the broader political project
 - What information Alma recovered, what she learned in captivity, and what can still be acted on
