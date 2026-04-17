@@ -1,0 +1,250 @@
+# Principles
+- embrace danger
+- discover your character
+- use your resources
+- tell the story
+# Transport to Karathul
+- air ships
+- steampunk lift
+- pressurized/pneumatic tubes
+# Daggerheart recap
+- Vraag om een rol als het kan mislukken
+- Crit kan een onmogelijke situatie mogelijk maken
+- Rol uitkomsten
+	- Halen met hope
+	- Halen met fear
+	- Falen met hope
+	- Falen met fear
+	- Crit (halen met bonus + clear stress)
+- (Dis)advantage
+	- Advantage +d6
+	- Disadvantage -d6
+	- They stack (highest / lowest from multiple dice)
+- Applying experiences cost a hope
+# Vignettes
+
+## Mirn (Rik)
+- Thulani voor "kleintje"
+- Netheril basin - glooiende heuvels, water.
+- Beschrijving
+	- Lichtblauwe jonge man (20) met een kaal hoofd
+	- Onervaren / onbeholpen
+	- Loopt met kracht en overtuiging
+	- Draagt een enorme sledgehammer
+	- Kijkt uit over het land en zoekt naar zijn senioren
+	- Lid van het Thulani volk
+- Thulani
+	- Nomaden
+	- Kennis van de natuur
+	- Routa: stamoudste
+	- Chantia: earth mother
+	- 1 Thundertusk mag gedood worden per jaar - moet volledig gebruikt worden
+- Mirn realiseert dat hij zich in een droom bevind
+	- Het gaat té goed
+	- Welke herinnering: Hij denkt terug aan de dagen dat ze ieder jaar terugkwamen bij het eye of Chantia een enorme zandstenen boog in het midden van de savanne. Alle Thulani stammen komen daar bij elkaar. Dit is de enige plek die tegelijkertijd zoveel individuen kan hosten.
+	- Naast hem staat Torga; zijn mentor
+	- Instinct roll: CRIT! Noem drie dingen die we toen niet op waarde hebben geschat, maar die nu blijken bewijs te zijn:
+		- Hing al meer zand in de lucht. Grond hield de grond niet meer goed vast; zandstormen kwamen eerder
+		- Dit jaar twijfelden ze voor het eerst of ze wel een Thundertusk dood konden maken omdat de kuddes niet genoeg gegroeid zijn
+		- Moeite om water te vinden
+	- De Routa signaleert dat het een probleem is. Deze keer werd de Routa echter niet geloofd, waarom? => Het ging al zo lang, zo goed; de stammen keken uit naar het feest en was niet bereid hem te geloven omdat ze niet wilden dat er iets zou veranderen.
+	- Presence roll: 21 met fear. The dream shows ecological collapse in vicious detail. Mark 1 stress.
+	- Which loved one suffering is hardest to watch? Moeder. Is oud. Mirn probeert taken over te nemen.
+	- How did it feel to see so many give up their way of life? And why haven't you given up? Voor Mirn houdt zich vast aan wat zijn Routa zegt. Als wij maar zo min mogelijk nemen.
+	- We moeten de stormen van Talos face on meeten, en niet er van vluchten.
+	- Today, your tribe is barely hanging on. There is no denying that all Thulani are suffering in a similar way.
+	- You jolt away to screaming and a rhythmic . Thundertusks are approaching.
+	- You immediately understand the direction and speed
+	- Het rommelen van de aarde maakt hem wakker
+	- Who do you see first? Zijn moeder
+	- What is the immediate instinct? Moeder wakker maken en op zoek gaan naar Torga
+	- Je ziet Torga niet direct: Instinct roll voor een eigen beslissing: Crit (29). Je
+		- De tent losmaken aan een kant zodat die groot opwaait en misschien de thundertusks laat schrikken
+		- Torga vind hij ook
+	- Mirn probeert zich te focussen om de voorste in de herd af te leiden en te redirecten
+	- Crit! Hij creeert een bubbel van veiligheid
+	- Instinct roll om te zien wat er gebeurt met de Thundertusks (13, success met fear)
+	- Er zijn ook vuren in de city of pelts, en het is vreemd dat ze op de stad afrennen. Hij ziet alleen maar slachtoffers "ze vluchten voor iets, wat kunnen we doen".
+	- Torga is zelf klem komen te zitten onder wat huiden bij het losmaken, ga je helpen, of houd je je bubbel veilig?
+		- Mirn kijkt naar Torga maar blijft in de bubbel / een afleiding maken.
+		- Lot van Torga (8 fear, 9 hope): Ze breekt iets van zichzelf om zich uit de situatie te redden en voegt zich aangedaan bij de tribe.
+	- Veel Thulani stamleden zijn omgekomen. Een massacre. Naar wie ga je op zoek?
+		- Zijn moeder
+		- Luck roll: Hope: je vind je moeder.
+		- Een van de tentstokken is door haar heengegaan; zij spoort Mirn aan om ergens anders een mooi leven op te bouwen "hier is niets meer voor je".
+		- Mirn blijft bij haar tot ze gaat.
+		- Time passes; you don't know how much.
+	- When you regain consciousness, you're on a wooden bed. 
+		- Greeting. Thadeus Stormheart![[signal-2025-11-28-150644.jpeg]]
+		- Mirn is in een klein dorpje "Thrashult"
+		- Thadeus heeft hem verwilderd gevonden naast de overblijfselen van een andere giant. Hij heeft het lichaam van zijn moeder ook gevonden en begraven.
+		- "Neem rust" is zijn opdracht. Mirn accepteert, nog steeds overweldigd
+		- Thadeus geeft hem "Varik leaves" en een "Calming pendant".
+## Noira Skyleaf (Roos)
+- Vraag aan Cathal: When we zoom in on the estate of houseraven, what do we see?
+	- Je ziet een groot landhuis achtig gebouw in een van de weinige plekken in de skycity waar niet alles tegen elkaar aan is gebouwd, maar ook nog echt een tuin omheen is. Victoriaanse stijl, geglazuurd: Root wit en groen. Gebouwd in mosaic in prachtige patronen, grote ramen; langwerpig gebouw gebouwd om twee binnentuinen. Een ander die open is. Koperen tentakels die de lucht inschieten, met een blauwe gloed daar tussenin.
+	- Tussen de twee courtyards staat een toren die hoger lijkt dan fysiek mogelijk. Verlicht met zachte gloed van geel licht, doet je denken aan het licht van een leeslampje.
+	- Binnen ruiken we geoliede houten vloer, oud tapijt, papier en inkt.
+	- Wie zijn er nog up en about, en waar vinden we ze?
+		- We zien een halfling in prachtige adelijke gewaden zitten in een studeerkamer: Lord Tetherin Nimraven.
+		- We zien een jonge halfling in vergelijkbare gewaden. Heeft een vreemd uitstulpsel op de rug van zijn kleding. Is in slaap gevallen op zijn boek bij de open haard.
+		- We zien in de bibliotheek achter het bureau van de bibliothecaris een oude man met een goud ronden brilletje een reeks catalogi doornemen.
+		- De anderen die wakker zijn zijn de bewakers die overal in en rondom het gebouw zijn.
+- Where in this mansion does Noira have her room.
+	- In de hoek van het huis in een erkertje, op de tweede verdieping.
+- You had almost given up, to get an invitation. You peak again at the note; today's note "be prepared for tail practice"
+- We zien een jonge vrouw (17). Donker baggy zwarte jeans met grote leren riem. Oversized t-shirt met een grote maan. Een choker met een klein maantje. Donkere eyeliner, zwart haart. Zwarte hoed ligt op haar bureau. Ze schrijft in een leren dagboek.
+- "Lumen" ligt aan haar voeten, spierwitte kat.
+- You are going to try to leave the estate without being noticed. (countdown 3)
+- Het huis kraakt enorm.
+- Experience: Escape artist.
+- 10 (success) met hope.
+- Colbertje helemaal dichtgeknoopt tot helemaal boven.
+- Ze glipt door een minimaal geopende deur.
+- rol 18 (succes) met fear: Several doors are locked for the night, requiring a finesse roll to pick the lock or a knowledge roll to find an alternative route.
+- rol 15 (succes) met fear: Ze moet nu langs het moeilijkste stuk, waar mensen wakker zijn. Ze probeert te sluipen
+- rol 18 (succes) met hope: ze sluipt door de schaduwen naar buiten
+- Hoe reis je naar "Trashult"?
+	- Ze neemt de weg van het airship.
+- De moonlight training
+	- The forest is quiet. Too quiet. Especially for a place that is called the "Woods that Sing". Sudden sounds carry strangely here. Most birds have left. It is because of these changes that it is safe. You can feel the hollowness. She now knows it as "The woods that sing no more".
+	- Zeven bomen die in een cirkel staan. De maan staat er precies boven. Lumen met haar pearlescent witte vacht. Noira wordt er juist donkerder van.
+	- Thadeus steps out into the clearing. Welcomes you with a warm smile. Breathes in deep and sighs. "In this place truth breathes".
+	- Crit: Advantage on your first training.
+	- Thadeus looks at you with trust and confidence. Focus on your hands and change only their appearance. 19 (success) met hope.
+	- What do your hands look like now? Opvallend veel als die van Lumen
+	- Thadeus glimlacht trots
+	- "Dit was het veranderen van een ledemaat wat je al hebt"; nu gaan we een nieuw ledemaat te maken; een staart op basis van je staartbotje.
+	- 3 (fail) met hope: Mark a stress, and try to recover. Thadeus ziet de worsteling en helpt Noira ankeren.
+	- 13 (succes) met hope: gelukt!
+	- De staart: Heel fluffy!
+	- Thadeus' eyes seem to pierce yours "as you know the truth is always in the eyes.". "Show me the eyes that belong to this person".
+	- Crit! Amberbruine ogen veranderen naar een lichtgrijs / maankleur. Haar klauwen veranderen en krijgt een wit fluffy neusje, oortjes die onder haar hoed vandaan komen : Full Katari!
+	- Thadeus begint kruikjes op boomstammen te plaatsen; als een soort obstakel course
+	- 22 met fear: heel cognitieve aanpak om haar staart onder controle te houden en niets om te stoten.
+	- Spend a fear: je bent bij de laatste kruik. You suddenly see Lumen freeze. You feel a faint pressure in your teeth; an echo of something distant.
+	- 13 met hope: success. Er is een rumbling tremor in de grond die een collapse suggereert. "Maar daarvoor was er ook al iets". En dat was meer mechanisch, het was te ritmisch om organisch te zijn.
+	- Thadeus geeft Noira twee dingen mee.
+		- Vial of moon drip: You can see in total darkness until your next rest
+		- Sing of silence: spend a hope, your footsteps are silent until your next rest
+
+## Ghum (Merlijn)
+- You wake up feeling lightheaded and detached
+- Small natural cavern - edge of community - above people mine Chardalyn - divide between spaces has collapsed - hear strange pulsing sound - and yelling - voices seem to get fainter
+- What would you like to do? Probeer mezelf door gat te wurmen - behoedzaam - stemmen horen niet in mijn grot. Wie zijn deze stemmen? 
+- Instinct roll - 16 met hope
+- Wat je hoort is: miners die wegrennen. Het lukt je om door die ruimte heen te bewegen - dan kijk je in de quarry - je kijkt in een van de mijnschachten. 
+- The Chardalyn pulses with unstable energy - approaching je ziet dat het helderder schijnt wanneer je het benadert. Kleur Chardalyn als je benadert: paars. 
+- Wat is hier gebeurd? Je ziet restanten explosieven, restanten mining gear, papier en de glowing Chardalyn. Verdwaasd - "ik ga eerst kijken of ik leden zie van mijn communie" - dat is duidelijk niet het geval. 
+- Ik ga naar tafel toe. 
+- Knowledge roll - Crit!
+- Op tafel vind je: lijst met officiële documenten, met instructies om de snelheid van het minen te verhogen, kaarten met markeringen/annotaties, en op muur achter de tafel is iets afgeschermd - iets overheen gekalkt. Welke clou vind je meteen alles van uit? Kaart inspecteren. Wat was hier het plan? 
+- Je ziet een kaart vd mijn - daarop aantekeningen in Draconic. Je ziet ook aantekening '**R V**'. Je ziet het woord Portal. Is vlakbij waar je nu staat. Tussen waar nu gegraven wordt en het stuk dat is ingevallen.
+- Instinct roll - 14 met fear
+- 2 dingen: je loopt richting ingestorte muur - je ziet een sigil in deel vd Chardalyn staan dat nog in de grond zit - ziet er oud uit. Je vindt ook - Unstable Arcane Chard. 
+- Je analyseert info - deze glyph is niet portal, maar arc van hele grote cirkel. Daarmee realisatie: als dit is waar ze mee bezig zijn, dan staat mijn community instantaan in gevaar.
+- Volgende onderzoek - gemaskeerde plek op de muur. 
+- Instinct check - 17 met fear
+- Er is met kalk iets afgedekt, maar oorspronkelijk geschrevene is gekerfd - protest-slogans - 'no ore over neighbours' - 'orders signed coffins lined' - 'dig quotas don't stop cave-ins'
+- Je voelt je even heel disconnected - daarna 'you suddenly feel the pulsing of the Chardalyn intensify - sparks grows in unstable energy bolt - blasts - sending you back to cave where you woke-up - connection with network comes rushing back to you - swamped with questions - GHUM WHAT HAPPENED TO US'
+- "Versterk de verdediging - breng de Elders om te kijken wat hier gebeurd is - ik begrijp dit niet"
+- Combat test!
+- Erratic bolt of Chaos Energy valt je aan. Komt op je af.
+- Staf op de grond - Vicious Entangle - uit grond komen paar paddenstoelen omhoog, schimmels kruipen eruit, wikkelen zich om de energie heen. 
+- Knowledge roll - 17 met hope - 11 is benodigd/succes - damage + restraining 
+- D8 = 4+1 = 5 damage 
+- Energy bolt reflecteert wat schade terug - stress
+- Minor Stamina Potion - 4 stress gecleared
+- Schimmels zie je paars oplichten - HEX - Voice of dread - 'je bent hier niet welkom ga terug naar waar je vandaan komt' - Roll - 16 met fear - succes - they take stress and become temp vulnerable - daardoor advantage op dit creature
+- Bolt beweegt om je heen, blijft in close range
+- Warp Blast - roll 9 - mist 
+- Aanval met staff - 23 met hope - succes - damage = 9 (5 + 1 hex + 3) - magical damage minder invloed dan physical damage 
+- Bolt reflects back: 1 HP 
+- Aanval met staff - 11 met fear - 10 magical damage, halveert - bolt op laatste voet
+- Geen schade terug dit keer - hij is door zijn stress heen
+- Warp Blast - natural 20 - 13 damage - Severe - 1 armor slot - 2 HP 
+- Vicious Entangle - met advantage vanwege vulnerable - 14 met fear - succes - 1HP over dus WIN - hij wordt uitgeknepen, alle energy verdwijnt.
+## Kaelen (Cathal)
+- Somewhere in a tavern karathul, waiting for your appointment.
+- The tavern: Ogenschijnlijk doorsnee, maar de selectie whiskey/wijn is toch wat groter dan normaal. Warme boel van hout en stoffen, comfortabel.
+- Kaelen zit in nette doorsnee gewaden; goed verzorgd maar onopvallend
+- Hij lijkt een beetje op een halfling, maar langer, maar klein voor een mens. Wat grote ogen waar stofdeeltjes in rond lijken te zweven.
+- You reflect on your last big story "The collapse of the Thulani tribe".
+- Where did you publish it?
+	- Guildsmen eye: Ogenschijnlijk een krant voor handelaars. Editors zijn geinteresseerd in wat er echt aan de hand is. Niet zozeer social injustice, maar wel echt nieuws
+	- Heftig voor Kaelen
+- How did the public react?
+	- Mijn verwachting is niet heel hoog. Het publiek in de skycity is vooral bezig met zichzelf.
+- Je ziet iemand verschijnen (disguised): Stem van Thadeus Stormheart.
+- Mirn's toevoeging aan het verhaal: Dit was al tijden in gang (de grond kan niet genoeg geven, groepen moeten kleiner worden). Het Thundertusk's gedrag was onnatuurlijk; normaliter zijn ze kalm/docile. Chantia gaat de grond helen, maar dat kan nog even duren.
+- Het wordt duidelijk dat er meer gaande is, maar ook dat Mirn en Kaelen er samen niet uit komen.
+- Some miners have been arrested into detention hall. These miners protested though. Thadeus believes they're being scapegoated. Only swift publicity can help the miners tell their story to the world.
+- Hebben ze recht op een advocaat? Kaelen gaat naar de rechtbank, en doet zich voor als de advocaat van de miners om alle documenten op te vragen. Ook de clerks ondervragen.
+- Crit! 3 bewijs items; kies 1 voor verdieping.
+	- Bran Colthump Valor : Orc (Shift lead) - Er is een kopie van een blast roster; mid-night test-charge was authorized by Bran.
+	- Mina Ashgrowth: Earth Genasi (Foreman's apprentice) - Haar toolkit had scorchmarks. Op de crowbar zijn accelerants aangetroffen.
+	- Jel Whistledaron: Gnome (Tunnelmapper) - (bekend bij Ghum als iemand die voorkomt dat de mijn afgravingen te dicht bij de commune komen.) - Een kaart met zijn cartographers mark.
+	- Kaelen bekijkt het blast roster nauwer. De thumbprint was gekopieerd uit een eerdere maand!
+- 15 met fear: Success.
+- DM spends 2xFear: Hij herkent Thendar Reltar.
+	- Is een eikel
+	- Erfgenaam van een andere grote familie
+	- Grote rivaal in de debate club
+		- Bij een debat sloeg de vlam in de pan van rivaliteit naar passie
+		- Explodeerde net zo spectaculair als dat het begon
+	- Heeft een van Kaelen's bron-personen verraden
+- Kaelen probeert een van de gevangenen te spreken: Jel, op een plek buiten gehoor van Thendar
+- Crit! Hij brengt Jel naar het kantoortje van een bewaker om hem te ondervragen.
+- Jel is fidgety en restless; houdt zijn ogen op de deur; is niet op zijn gemak.
+- Kaelen "Heb je een advocaat? anders ga ik die direct regelen!".
+- Kaelen speelt verder open kaart: "Ik ben een journalist die je verhaal naar buiten gaat brengen". Hij noemt ook Thadeus.
+- Jel slaakt een zucht van verlichting. Hij blijkt een van de leiders van de protesten te zijn geweest.
+- Jel "Hoe is het met de Fungril". Dat weet Kaelen niet.
+- Kaelen heeft wel dingen van de kaart overgenomen en laat die aan Jel zien, met het verhaal van de autorisatie.
+	- Dit was een veel oudere kaart van een ander gebied die ze misbruikt hebben
+	- Experimental Teleportation Glyph 
+	- Kaelen herinnert zich Rayna Valxior - the godless arcanist.
+- Een guard begint Kaelen uit te vragen "Was jij niet de advocaat van deze mensen hier?"
+- Kaelen stelt zichzelf voor even veilig en weet de wacht te overtuigen nog een gevangene te spreken
+- Mina: Warms up to Kaelen. The glyphs in the chardalyn are some very old warding magic. She tried studying them, but was told to focus on her work by the leader (GRINSS - Grand Research Institute Never Setting Sun). Leider van het departement is Rayna Valxior.
+- Kaelen besluit Thadeus uit te horen over Rayna, om inzicht te krijgen in een eventueel motief.
+
+# Quests
+- What happened with the thunder tusks
+- What happened to the quarry
+# Connection Questions
+- **Mirn** aan **Ghum**: "We knew each other long before this party came together, how?"
+	- Mirn heeft met zijn groep kamp opgeslagen boven de grond waar Ghum zijn tunnels beschermd. Ghum ziet dat als een potentieel gevaar en stuurt een terroriserende mist. Uitendelijk blijkt dit een misverstand en leggen ze de ruzie bij.
+- **Noira** aan **Kaelen**: "Why do you come to me for advice?"
+	- Weet ik van jouw nachtelijke escapades? Nee
+	- "Hoe kan ik mijn gelaat veranderen?"
+		- "Oogschaduw, wenkbrauwen"
+		- "En houding veranderen"
+- **Mirn** aan **Noira** "What fear am I helping you to overcome?"
+	- Noira heeft best veel angsten
+	- Ze heeft veel geleerd over haar toekomst
+	- Wisdom of de rota. Wijze uitspraken die Mira van zijn elders heeft gehoord.
+	- Woorden van Talos "Je moet het juist aangaan zodat het je niet overkomt"
+- **Noira** aan **Ghum**: "I once appeared to you in a dream and shared with you a vision of the future. What did I tell you?"
+	- Beelden van na het onheil van nature en magic imploding.
+- **Mirn** aan **Kaelen**: "What mundane task do you usually help me with, off the battlefield?".
+	- Kaelen houdt van zijn creature comfort; eten, drinken => een gerecht koken.
+	- Schrijven, en in het algemeen finesse tasks.
+- **Noira** aan **Mirn**: "What about my magical practice makes you most ill at ease?"
+	- De dingen met de maan; alsof je iets pakt wat niet van jouw is.
+- Ghum aan Kaelen: "What about my magical practice makes you most ill at ease?"
+	- Kaelen is op zoek naar iets herkenbaars, maar dat lukt steeds niet. "Kan je moeilijk onder woorden brengen."
+- Ghum aan Mirn: "Why do you come to me for advice?"
+	- Ghum komt over als een Torsh, een bescherming en watchfulness.
+- Ghum aan Noira: "I once appeared to you in a dream and shared a vision of the future. What did I tell you?"
+	- The reality on the ground of the cave-in.
+- Kaelen aan Mirn: "Why have we become such good friends?"
+	- Hij voelde zich wat belangrijker, want gehoord over zijn verhaal.
+- Kaelen aan Ghum: "What do I do that annoys you?"
+	- Kaelen's contrarianness. It's fascinating, maar ook annoying
+	- Maybe also: Kaelen's obliviousness to what's important to Ghum.
+- **Kaelen** aan **Noira**: Why do you grab my hand at night?
+	- Ik voel me naar jou het meest schuldig voor mijn nachtelijke escapades.
+
+# Trashult
+![[Pasted image 20251130103105.png]]

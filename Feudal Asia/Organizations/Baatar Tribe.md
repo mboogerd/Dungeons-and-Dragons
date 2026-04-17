@@ -1,0 +1,7 @@
+The Baatar family leads a nomadic tribe entrusted with the protection of Kinkou’s northern frontier. Operating within a traditional feudal system, the Emperor grants the Baatars the right to live on and exploit the land in exchange for a portion of their profits—mainly in the form of animal meats—and their duty to defend the region against bandits and rogue yokai. Renowned for their skills in both battle and yokai hunting, the Baatars act as guardians of the physical and spiritual realms, performing rituals to honor the Kami and keep the land’s spirits at peace.
+
+Living a nomadic life, the tribe herds sacred animals, believed to be blessed by the spirits, across the vast steppes and mountains. The Baatars see themselves as stewards of the land, ensuring that their migrations do not disrupt the balance of nature. They also protect sacred sites, such as a nearby volcano where Fukumi communes with the **Kami of the Free Wind**.
+
+Leadership within the Baatar family is merit-based, with the tribe valuing strength, wisdom, and the ability to lead in times of both peace and conflict. Fukumi’s adoptive father currently leads the tribe, while she serves as the tribe’s tactician and is in line to succeed him. However, her status as an adopted daughter may stir some internal tensions.
+
+While the Baatars respect their feudal obligations to the Emperor, they are fiercely protective of their independence and nomadic traditions, creating a constant balance between their duty to the empire and their desire for freedom.

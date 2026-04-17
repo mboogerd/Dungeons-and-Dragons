@@ -1,0 +1,1 @@
+Golem Guardian die de relieken bewaakt van [[Feldressyx]]

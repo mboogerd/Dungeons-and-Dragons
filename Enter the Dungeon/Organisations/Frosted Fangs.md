@@ -1,0 +1,12 @@
+---
+tags:
+  - organization
+---
+- Gevonden in het riool
+- Ingezet voor sabotage van
+	- [[Tirith Elunara]]
+	- Noordpoort
+	- Paleispoort 
+- [[Scarx the Scalebinder|Scarx]] geholpen bij infiltratie [[Lorekeepers archive]]
+- Mensen onder druk gezet van [[Tirith Elunara]]
+	- Clerk ([[Rilena Lorthal]]) die rapporten moest maken over afwijkingen in de [[Tirith Elunara]], heeft dat niet gedaan

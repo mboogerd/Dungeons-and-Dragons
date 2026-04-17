@@ -1,0 +1,5 @@
+- [x] Prepare vignette battle tactics and speech
+- [x] Prepare character introduction
+- [x] Prepare cheat sheet
+- [ ] Share battle tactics
+- [ ] Study my background for optimal impersonation

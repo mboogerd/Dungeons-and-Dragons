@@ -1,0 +1,1 @@
+Een vrouw met vlammend haar als vlammende tongen. Donkere gewaden met in gouddraad gestrikte vlammen.

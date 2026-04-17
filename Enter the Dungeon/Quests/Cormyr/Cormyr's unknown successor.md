@@ -1,0 +1,1 @@
+- The king of Cormyr passed away under mysterious circumstances, with an unknown nephew succeeding him on the throne

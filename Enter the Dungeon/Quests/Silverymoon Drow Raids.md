@@ -1,0 +1,5 @@
+- Increasing Drow raids in the vicinity of Silverymoon, although the locals (Lyra's parents) weren't too worried
+- Stories along the way
+	- “Dark elves seen near Sundabar.” Traders on the road say they’ve spotted Drow parties moving by night and hiding by day, drawing uncomfortably close to Sundabar and other settlements around Silverymoon. Rumors abound that they’re scouts for a larger force—perhaps even a full invasion.
+	- “Nightwatch of Silverymoon is on high alert.” Word has it that the guard captains in Silverymoon have doubled patrols. Drow attacks have increased, but the raiders strike fast and vanish without a trace. Some whisper that the Drow have ways to slip past Silverymoon’s defenses, and rumors of sabotage have made the guards even more suspicious of newcomers.
+	- “Waterdeep’s Blackstaff is worried about shadowy threats from the Underdark.” Some say that spies have spotted strange movements deep below the city, hinting at the possibility of Drow or Duergar activity. Though no danger has surfaced, there’s talk of extra vigilance.

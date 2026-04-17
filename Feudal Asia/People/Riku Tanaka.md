@@ -1,0 +1,1 @@
+Dwerg, oudste aan tafel. Met heel eeltige handen die zijn leven als handelsman verraden. Direct

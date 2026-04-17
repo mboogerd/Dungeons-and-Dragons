@@ -1,0 +1,12 @@
+- **Race**: Fire Genasi
+- **Class**: (Red dragon origin) Sorcerer
+- **Origin**:
+	- 
+- **Personality traits**
+	- 
+- **Ideals**
+	- 
+- **Bonds**
+	- 
+- **Flaws**
+	- 

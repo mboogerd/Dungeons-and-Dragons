@@ -1,0 +1,4 @@
+---
+tags: person
+---
+![[Dagnal.jpeg]]

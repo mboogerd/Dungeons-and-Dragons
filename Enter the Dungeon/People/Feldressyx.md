@@ -1,0 +1,14 @@
+---
+tags:
+  - person
+---
+- Rode draak
+- Titles
+	- Lord of Ice and Fire
+	- Master of the [[Coldbrand Horde]]
+	- Chief Architect of the Frozen Forge
+- Probeert zijn vuur/ijs magie te vergroten
+- Was soms lang weg, soms ging [[Scarx the Scalebinder]] mee, of volgen
+- Droeg veel te veel sieraden
+- "By flame, by frost, we rise"
+- Opulence

@@ -1,0 +1,1 @@
+Mens, zeer charismatische vrouw, mogelijk een Geisha verleden. Intense blik, kleurrijke kimono. Subtiele spanning. Vlotte tong, goed in het lezen van mensen

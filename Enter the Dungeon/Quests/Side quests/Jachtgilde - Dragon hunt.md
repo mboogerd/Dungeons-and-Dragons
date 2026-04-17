@@ -1,0 +1,1 @@
+Jachtgilde heeft een beloning uitgeloofd voor het verslaan van de witte draak: "2500GP voor het hoofd van de witte draak".

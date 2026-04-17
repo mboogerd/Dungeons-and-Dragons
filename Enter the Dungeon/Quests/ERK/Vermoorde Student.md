@@ -1,0 +1,91 @@
+Queeste gegeven door [[Shemil Daystar]] in [[S05E02]].
+
+![[IMG_5510.jpg]]
+
+- Vijfdag - 7 uur in de ochtend.
+	- In achterste boot lijk gevonden
+	- [[Stan Ranu]], vierdejaars student. Geliefde student, onderdeel van het zweefbal team.
+	- Gestorven aan een messteek in de hals. Moet een messteek van dichtbij zijn geweest, van de voorkant.
+	- Ga spreken met de grounds-keeper [[Agnes]]
+	- Ga spreken met de mensen die dichter bij hem stonden
+		- [[Agnus]] heeft [[Bartus]] verwittigd om 7:15
+	- Avond maaltijd verlaten om 19:00 op vierdag
+- [[Takfarinas]] observeert dat de voorste boot recenter gebruikt is dan de andere twee in the boat house.
+- [[Zeno]] cast Fox's cunning op [[Takfarinas]], [[Lyra Palana|Lyra]] en [[Torden]]
+- [[Stan Ranu]] draagt nette laarzen met een gladde zool. Kleine kiezeltjes zijn er in blijven hangen.
+	- Wie heeft je vermoord? [[Vima Sulum]] (vriendin van [[Stan Ranu]])
+	- Waarom is de moord gepleegd? (geen idee, absolute verbazing en verdriet)
+	- Heb je geheimen of vijanden / wie zou er **motief** hebben? (Iedereen vond me aardig. **Rare brief gevonden**. => gevonden als onderdeel van mijn werkstuk decryptie. Werkstuk Meester Fleming)
+	- Waar is de brief nu: De brief lag op mijn kamer.
+	- Brief vreemd: Vaker extra huiswerkopdrachten. Zijn encrypties zijn bijzondere puzzels. De meeste brieven bevatten een simpele tekst. Dit was een echte brief in code. Geaddresseerd aan [[Parody]]. Het ging over dat operation charm succesvol was, maar infiltratie lastig.
+		- Wat gebeurde er vlak voordat je werd vermoord?
+		- Waar ben je vermoord?
+		- Waarom was je in het boothuis?
+- Draagt zijn school-uniform.
+- Next
+	- Vind de brief
+		- Onderzoek [[Stan]]'s kamer in student dorms
+		- Kamer afgesloten om 7:30 met een arcane lock
+		- Brief: Liefste, ik heb geweldig nieuws gekregen, wat ik met je wil delen. Laten we elkaar ontmoeten bij de vaste plek om 8:00 vanavond. Tot de hazen vliegen, van jou, [[Vima Sulum]].
+		- [[Gadget]] vind achterin de la van een bureau een geheim compartment. Daarin zitten alleen liefdesbrieven van Vima.
+	- Vind Vima
+	- Meester Fleming
+- [[Agnes]] ging het boothuis openen.
+	- Was al afgesloten voor de moord. Mogelijkheden tot ingang
+		- Pas van een meester magier
+		- Boot
+		- Omheen klimmen
+	- [[Vima Sulum]] droeg haar mooie groene mantel die ze vaker droeg als ze op een date was.
+		- Een keer vanuit kantine naar de dorms: Iets nadat ze Stan had zien lopen
+		- Daarna vanuit dorms richting boothuis, achter Stan aan.
+- Het eiland
+	- Sporen gevonden richting de tempel
+	- Tempel: Roze rode zandsteen
+		- 5 meter hoog
+		- Koepel er boven op
+		- 12 meter doorsnede
+		- Platte vloer met grote tegels
+		- Gebrandschilderde ramen
+		- Kleine altaars voor de grote goden
+		- Sporen lopen door naar het altaar en dan verdwijnen ze.
+		- Ingang naar het Mechanicum. Met een mechaniek bij het altaar word een trap zichtbaar.
+			- Mechanicum
+				- Lange gang zonder fakkels
+				- Vreemde pulserende lichten hangen aan het plafond in wit-blauw licht
+				- 4 deuren - Kalinor (een van de ERK oprichters) creator van deze kamer
+					- 2 deuren links
+						- Links1 wachtkamer - extra beveiligd
+							- Wand met kristallen bollen
+								- Teleportation cirkel
+								- Vreemd gekleurde mist * 4: ruimte buiten de dimensie
+							- [[Arostos]] was de actieve wacht
+							- Logboek van mensen die komen en gaan
+								- Fleming
+									- Lunchtijd op vierdag vertrokken
+									- Op vierdag vijf uur teruggekomen
+								- Vima
+									- Niet vertrokken
+								- Wel veel andere studenten en leraren
+								- Geen discrepanties tussen pas en persoon
+						- Links2 water/lucht zuivering
+							- 
+					- 2 deuren rechts
+						- Rechts1 - Reactor kamer - Genereert magie - Pseudo-mytalar (vangt ambient magic op)
+							- 20 zijdige koperen constructie in het midden van een grote ruimte. Word op zijn plaats gehouden door 6 grotere koperen staven vanuit het plafond en de vloer. Pulserend licht in het midden.
+							- Regeltechniek lijkt al lange tijd niet gebruikt
+							- Aartsmagier komt nog wel eens
+								- In een laatje van het bureau: Bebloede dolk
+						- Rechts2 - klimaat reactor en controle kamer
+							- 
+					- Doorloop gang naar boven
+						- Komt uit in het hoofdgebouw in het laboratorium
+				- Machine kamer van de micro-dimensie.
+				- Fleming
+					- Blond haar
+					- Relatief donkere huid
+					- Paarse mantel over een donkere tuniek
+				- 
+					- Vrouwelijke elf met rossig haar
+					- Maakt kleding zelf
+					- Komt hier om een vriend te ontmoeten
+					- Op bezoek in de stad

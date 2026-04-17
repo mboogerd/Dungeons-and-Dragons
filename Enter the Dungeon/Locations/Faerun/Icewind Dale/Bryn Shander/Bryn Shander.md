@@ -1,0 +1,23 @@
+---
+tags: location
+---
+- Heuvel met iets wat lijkt op een stad
+- Recentere gebouwen (10ish jaar)
+- Bij het meer een grote arena
+- Bovenop de heuvel, stadspleintje
+- Gebouw van grijze steen, twee verdiepingen, met een klokkentoren. Statige ingang met een portcullis
+- Statig gebouw van rossige steen, grote ramen, beide uiteinden hebben grote ingangen (tempel). Hall of justice and mercy.
+	- Shaena: Elvenvrouw in groen-gouden mantel (_hearth of justice_)
+	- Mac (zus): zwart haar met gouden strengen, zelfde ogen en gelaatstrekken als Shaena. Scheidsrechter (_fist of justice_)
+	- Auryl verslagen? 
+		- 20 jaar geleden werd het echt koud, en steeds minder licht
+		- Leek geen klimaatverschuiving
+		- Frostmaiden Auryl had zich gevestigd in een uithoek van Icewind Dale om dat haar rijk te maken
+		- Klom op haar adelaar en betoverde de hemel om met het noorderlicht de zon te blokkeren.
+		- Auryl verbleef op een klein eiland voor de kust, met haar reuze-adelaar.
+		- Lokale goliath-clan overtuigd om griffons te lenen om daarheen te vliegen. Daar de adelaar afgemaakt.
+		- Andere twee
+			- Lucy Skygrowth: Flierefluiter
+			- Gataumar Jadal: Gat - Atkatla. Werkt aan een eigen school voor magie.
+
+- Northlook

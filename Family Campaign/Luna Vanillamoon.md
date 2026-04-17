@@ -1,0 +1,20 @@
+- **Race**: Gnome
+- **Class**: (Circle of the Moon) Druid
+- **Origin**:
+	- Fled with her sister from war
+	- Sister disappeared during her sleep
+	- Now lives in an ancient overgrown building in the woods, filled with mysterious books and secrets
+	- How became druid?
+- **Personality traits**
+	- A little shy to talk with people
+	- I don't run from evil, evil runs from me
+- **Ideals**
+	- Planten en dieren moeten in vrede kunnen leven in _haar_ bos. Daar mag geen schade toegebracht worden aan dieren. Pescetariers zijn toegestaan
+	- I have a dark calling that puts me above the law.
+- **Bonds**
+	- De maan - daar zijn overleden mensen wiens zielen je van kracht kunnen voorzien.
+	- Haar bos - 
+	- De zee?
+	- I keep my thoughts and discoveries in a journal. My journal is my legacy.
+- **Flaws**
+	- Ik spreek tegen geesten (overleden dieren) die niemand anders kan zien

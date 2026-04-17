@@ -1,0 +1,1 @@
+De uitverkorene zijn zij die gemarkeerd zijn door Zoros tot op het vlees. Zij zijn de vleesgeworden afgezanten van onze god.

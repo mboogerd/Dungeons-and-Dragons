@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "cad4b700b566e497",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fb838775caad85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f94f2818fe9f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/Season 7/S07E03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S07E03"
+            }
+          },
+          {
+            "id": "4bf70f6d419d395b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Aendril.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aendril"
+            }
+          },
+          {
+            "id": "6b9afa56052bf95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Season 7"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93fe3bf53eff052a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf377f3b02f879b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a73efb58846676e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0213eb5508b7b987",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "team",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d27bd09dbe5edc05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c08d2be3182277ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c10b8f9cf989e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25958a39585696d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Season 7"
+            }
+          },
+          {
+            "id": "a9718cbf5829f69b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/S05E10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from S05E10"
+            }
+          },
+          {
+            "id": "e55aa59a6e1922fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55e96ddcd7536126",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/S05E10.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of S05E10"
+            }
+          },
+          {
+            "id": "19f1893c37583b74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "55277b0a43429ab3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6b9afa56052bf95b",
+  "lastOpenFiles": [
+    "Enter the Dungeon/Sessions/Season 6/Season 6.md",
+    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+    "Enter the Dungeon/Sessions/Season 5/Season 5.md",
+    "Enter the Dungeon/Sessions/Season 4/Season 4.md",
+    "Enter the Dungeon/Deities/Zoros.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E04.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E01 (2022-10-09).md",
+    "Enter the Dungeon/Sessions/Season 4/S04E03.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E02.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E00.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E05.md",
+    "Enter the Dungeon/Sessions/Season 4/S04E06.md",
+    "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
+    "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
+    "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",
+    "Helior.md",
+    "Gallery.md",
+    "Feudal Asia/People/Iridex.md",
+    "Images/map-6.1-caves-of-hunger-player.jpg",
+    "Enter the Dungeon/Locations/Faerun/Silverymoon/Silverymoon.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 4.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.md",
+    "Images/players.jpeg",
+    "Images/image.png",
+    "Images/IMG_3293.jpeg",
+    "Feudal Asia/People/Frost.md",
+    "Enter the Dungeon/Locations/Underdark.md",
+    "Images/signal-2024-12-14-171925_002.jpeg",
+    "Images/Pasted image 20241002121740.png",
+    "Images/Pasted image 20260307120754.png",
+    "Feudal Asia/Feudal Asia.md",
+    "Feudal Asia/People/Aiko Hanako.md",
+    "The Shattered Crown/Daggerheart Character Creation.md",
+    "The Shattered Crown/Counsel of the Solstice.md",
+    "Het mysterie van Dyn Singh/Het mysterie van Dyn Singh.md",
+    "Enter the Dungeon/Sessions/Season 7/S07E03.md",
+    "Enter the Dungeon/Locations/Faerun/Silverymoon/Moonwood.md",
+    "IMG_3293.heic",
+    "Untitled",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Untitled",
+    "Enter the Dungeon/Untitled"
+  ]
+}

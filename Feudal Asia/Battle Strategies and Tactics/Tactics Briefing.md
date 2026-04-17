@@ -1,0 +1,25 @@
+- Weerzien
+	- [[Yuina Amano|Yuina]]: 
+	- [[Kurai Tora|Kurai]]:
+		- Hartelijk, dankbaar, licht emotioneel
+		- Druk zorgen uit sinds haar verdwijning
+		- Kurai zou het opvallen dat Fukumi nu naast haar werpsterren aan haar riem, ook een pistool aan haar zijde heeft hangen.
+	- [[Ji Jon Wo|Ji]]
+		- Zou Fukumi mogelijk herkennen als lid van de [[Takasawa Family]]
+- Reden voor deze briefing
+	- Erkenning: Ieder van ons is op zijn manier een begenadigde krijger.
+	- Niet-pretentieus: Jullie kennen je eigen kracht als beste, daar ga ik niets aan kunnen veranderen
+	- Ongelijke ervaring in het vechten in groepen
+	- Niemand heeft ervaring met deze specifieke groep
+	- We willen beslagen ten ijs komen
+- Nut van plannen
+	- Cynisch: Iedereen heeft een plan tot er een katana langs hun neus vliegt
+	- Inderdaad, het plan is nutteloos, planning is everything
+	- Maar
+	- Wat helpt
+		- Simpele plannen
+			- Heldere rolverdeling
+			- Basis tactische overwegingen
+		- Duidelijke verwachtingen
+	- Hoe je je rol invult, weet je zelf het best
+	- Communiceer, met name bij afwijking van je rol

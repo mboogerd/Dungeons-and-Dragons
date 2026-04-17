@@ -1,0 +1,16 @@
+---
+tags: location
+---
+- Een auberge langs [[Loch Wyniss]]
+- Barman [[Rei]]
+- Assortiment
+	- Redelijk standaard pils in grote fusten
+	- [[Wintermorgen Bier]]. Krijgt hij maar 2x per jaar, als de [[Feywild]] crossing open is.
+		- 5GP
+		- Komt uit het domein van de [[Prince of Frost]]. 
+		- Denne-naalden en sneeuwklokjes.
+		- Graan komt uit de kernels die ze vinden onder de verse sneeuw
+		- Volgens de barman heeft het de smaak van de winter
+		- Torden's ervaring: ![[Wintermorgen Bier]]
+		- 2GP tip
+		- Bij [[Paliset Hall]] de mayordomo vragen naar het [[Wintermorgen Bier]].

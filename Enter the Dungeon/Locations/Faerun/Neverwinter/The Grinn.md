@@ -1,0 +1,3 @@
+- Bar in [[Neverwinter]]
+- Eerste ontmoetingspek voor CSI
+- We komen hier ook terug na het verslaan van [[Feldressyx]]

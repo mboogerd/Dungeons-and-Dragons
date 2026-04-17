@@ -1,0 +1,44 @@
+-   Haalt een doosje met een set (tarot?) kaarten
+-   Eerste kaart: **Nexus, cirkel met vier delen er omheen**
+	-   Vliegt, beneden staan 2 figuren. Wat gebeurde er? In de lucht ontstaat een scheur.
+-   Tweede kaart: **Toren**
+	-   Gelig licht, droog
+	-   Ademteug, hitte, brand tot diep in mijn longen
+	-   Zand
+	-   Kijk omhoog, kijk om me heen, stoffig geelrood zonnetje
+	-   Duinen
+	-   Loopt er richting
+	-   Passen worden steeds groter
+	-   Bovenop de duinen, leegte
+	-   Stap over duinen, 
+	-   Zie iets verschijnen
+	-   Berg
+	-   Huizen/gebouwen, op de berg
+	-   Staan scheef
+	-   Grote schuinliggende berg
+	-   Neergekwakt
+	-   Oude stad, niets staat meer overeind
+	-   Voor de stad staan wel gebouwen
+	-   Stadje gebouwd voor de berg
+	-   Zandstenen gebouwen
+	-   Mensen lopen in de schaduw
+	-   Kleine marktpleintjes
+	-   Komt aan bij Toren
+	-   Vliegt er rondom
+	-   Binnen de toren zie ik 3 figuren
+	-   Een dwerg, kijkt ingespannen naar een kaart
+	-   Een andere dwerg, littekens over zijn hele gezicht
+	-   Voor hun, nog een figuur met zwart haar en groene ogen
+-   Derde kaart: **Pijl naar onder en een pijl naar boven**
+	-   Groots leger
+	-   Reuzen, mensen, dwergen
+	-   Afstormend op een grote stad in het midden van een witte vallei => Icewind Dale
+	-   Stad overrompelend
+	-   Alles in chaos achterlatend
+	-   Hoofd is een grote goliath met bliksemschichten in zijn gezicht => Thunukalathi clan
+	-   Zwart
+	-   4 avonturiers die de wildernis intrekken en een rode draak verslaan
+	-   Zwart
+	-   Dwerg met bliksemschichten mensen in mootjes hakken
+	-   Zwart
+	-   Elf zeelieden redden

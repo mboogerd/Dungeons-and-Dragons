@@ -1,0 +1,6 @@
+# Brief
+"I, [[Eliphas Adulare]], have sent my esteemed messenger, Fifel Amberhoof, to lead you to the shores of Loch Wynnis, so that you may cross into the Feywild with great haste. The winter solstice is nearly upon us, and I fear evil forces are as well.
+
+“My wife, the archmage [[Zorhanne Adulare]], has not been herself of late. I believe something or someone is controlling her through a magic diamond, which she acquired many years ago on one of her adventures. Zorhanna had it fitted into a necklace, which she wears on special occasions. A few days ago, she removed the necklace from our vault and wore it during a dress fitting. Since then, she has been uncharacteristically cruel to the household staff. When I confronted her, she dismissed me out of hand, clutched the necklace, and uttered something in a dreadful language I’ve never heard her speak before. All her warmth is gone. When I look into her eyes, I see a cold and spiteful woman staring back at me.
+
+“I want you to steal the necklace, which Zorhanna now refuses to remove. I can’t safely do it myself. Fifel will give you invitations to our winter solstice gala at [[Paliset Hall]]. There will be other guests to distract Zorhanna while you figure out a way to remove the necklace. You can then take the necklace for safekeeping to Ariana, Queen of the Seasons"

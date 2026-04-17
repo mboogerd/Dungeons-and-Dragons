@@ -1,0 +1,4 @@
+ - Half-drow
+ - Host van de [[Umbral Refuge]]
+ - Eenvoudige lichtblauwe gewaden en zilver
+ - Draagt een symbool van de godin [[Eilistraee]]

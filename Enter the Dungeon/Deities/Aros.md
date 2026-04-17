@@ -1,0 +1,1 @@
+Aspect of [[Talos]] - Destructie aangewend voor bescherming. Dit lijkt eerder de echte [[Talos]]

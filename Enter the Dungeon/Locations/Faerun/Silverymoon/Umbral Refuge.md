@@ -1,0 +1,6 @@
+- Bar in [[Silverymoon]] where primarily Drow come together
+- Twee niveaus
+- Vibe: Kneuterig eethuisje van Delfshaven
+- Zitten vooral zonderlingen, weinig groepjes. Zitten vaak alleen aan een tafel, maar converseren wel af en toe met elkaar.
+- Zit hier ook een kobold, een half-orc.
+- Lijken vooral mensen die ontsnapt zijn aan de [[Underdark]]

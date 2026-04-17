@@ -1,0 +1,1 @@
+Goddess of beauty, song, dance, freedom, moonlight, swordwork, and hunting, within the drow pantheon known as the [Dark Seldarine](https://forgottenrealms.fandom.com/wiki/Dark_Seldarine "Dark Seldarine")

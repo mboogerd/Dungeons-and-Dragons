@@ -1,0 +1,1 @@
+Tengere elf met diep wit-blauwe huid, zilver-blauwe ogen, en zwart haar met grijze stroken er doorheen. Hij draagt een wittig kristallen armor, en er hangt een zilverachtige mist om hem heen.

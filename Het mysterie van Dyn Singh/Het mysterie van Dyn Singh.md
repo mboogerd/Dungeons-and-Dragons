@@ -1,0 +1,201 @@
+- Arie Penari
+- Saartje Slagter
+	- Komt van een boerderij
+	- Woont boven de slagerij
+	- Sloft op konijnensloffen
+- Vanity Glimmersong
+	- Elf
+	- Bard
+	- Geboren in een aristocratische familie.
+	- Jong aan het vervelen, mocht alleen zitten en mooi zijn.
+	- s'nachts in de bibliotheek
+		- melodieen en spreuken
+		- eenhoorn gecreeerd met magie
+	- weggestuurd daardoor in het bos gaan wonen
+- Kuromi Yelnorin
+	- Vroeger een prinses
+	- Ouders Koning en Koningin
+	- Ze hielden slaven
+	- Ze is weggevlucht naar het bos
+	- Leefden met de dieren
+- Hoe kennen we elkaar?
+	- Wat is de onderlinge competitie tussen Arie en Saartje
+		- Bordspellen in de bar Stormking's Rest
+	- Wat heeft de een aan de ander verteld
+		- Kuromi en Vanity: allebei weggelopen van huis, en van adel
+	- Hoe heb ik je leven gered?
+		- Iets met de charming magie van Vanity ging mis, en het publiek werd opstandig; Saartje greep in om het publiek weg te houden
+	- Wat heb ik gedaan waardoor je altijd een beetje voorzichtig bent om mij heen?
+		- Valsspelen in een kaartspelletje, niet opvallend genoeg om echt te zien, maar verdacht genoeg om op te vallen
+	- Welke leugen heb ik je verteld die je absoluut geloofd
+		- Toen Saartje hoorde dat Kuromi van dieren hield, heeft ze alleen gezegd dat ze "met dieren werkt" / de lokale dierenopvang (ipv slagerij).
+	- Welk klein cadeautje heb je me gegeven waarvan je ziet dat ik het altijd bij me draag?
+		- Vanity gaf Arie een kleine muziekdoos nadat Arie haar in vertrouwen neemt over iets van zijn verleden
+- Missie:
+	- Het is avond in Waterdeep, de stad die nooit slaapt. Etensgeuren drijven door de door olielampen verlichte straten, af en toe onderbroken door een zilte zeewind. Mensachtigen van allerlei kleur en achtergrond lopen en haasten zich door de straten. Een draakachtige met koperen schubben en een blauwe mantel struint langs, babbelend met een ranke elf. Drie breedgeschouderde mannen lopen met zaken meel richting een bakkerij. Een koets getrokken door twee paarden rommelt langs, terwijl de dwerg op de bok afwisselend zn paarden en het wat traag reagerende publiek vervloekt.
+	- Tussen dit alles lopen vier karakters met een buitengewone missie: vind een fles **sinaasappel-likeur**. Ja, daar zou je normaal gesproken je hand niet voor omdraaien, maar een excentrieke academicus van de lokale universiteit had er 50 goudstukken voor over. En het is een mooi excuus om de avondmarkt van **Dyn Singh** (wijk van Waterdeep) te bezoeken, waar je zonder twijfel dit soort exotische drank kunt vinden. Hoe moeilijk kan het zijn?![[Pasted image 20250921115151.png]]
+- Avondmarkt
+- Ten midden van het geroezemoes en het gesis van straatgerechten. Geschreeuw "Geef dat terug"; "neeeej jij bent de dief!". Een opgewonden kobold dringt door de menigte met een bos uien; achter hem een gnome vrouw.
+	- History check met advantage: Zoon van een bekende marktfamilie.
+		- Naam: Gammon **Xungoon**
+- Een andere kobold komt uit de menigte en begint te schelden op de gnome vrouw, en ziet ons staan: Kutha Xungoon, marktbefaamde garnalen tot tonijn bij xungoon moet je zijn.
+- Gnome: "Schavuit!" / Lenmei **Tianmo**; Een leven lang noodles. "Geen gezeur, noodles in geur en klaar"
+- Insight (12): Ze lijken allebei overtuigd van hun eigen gelijk
+- Vanity begint met K-Pop te freestylen: Performance (8). Koreaanse invalshoek was lastig, het lawaai overstemd.
+- We krijgen 3 en 5 goedstukken vooraf!
+- 1 man loopt op ons af, en schudt grijzend. Donker haar, opzichtig groen shirt met hoge kraag en gouden filigrijn in de vorm van kleine pepertjes. "Kasem Marun" van de "Pittige broers"
+	- Ze hebben al een lange vete, niet goed voor de markt
+	- Markt laten zien over een uur lang
+	- Wat we leren in dat uur, een aantal tentjes
+		- [[De zijdespiegel]]: Een grote tent waarin je prachtige zijden gewaden vindt, erg prijzig. Voor minder dan 50GP heb je niets.
+		- [[De pittige broers]]: Vi (tweelingbroer van Kasem) bemant de tent met wat assistenten. Vurige komkommerdrank, honingkrokantjes (5SP)
+			- Arun Peperproef.
+		- [[De trouwe tonijn]]: Klein voedselkart, verkoopt kleine hapjes, spiesjes vis, etc. Sid Sepia "tot uw dienst". Lompe zeebonk, maar hij maakt toch wel mooie kleine bordje.
+		- [[Tienmun noodlebar]]: Verse handgemaakte noodles met bospeulen.
+		- [[Xingun vishuis]]: Viskoekjes, verse jammerslak, diamantkeelkarper, 1GP per stuk
+		- Laatste twee zijn goed onderhouden en druk
+		- [[Vada's Buitenaardse toetjes]]: Gebak voor een zilverstuk. "Vanillepudding broodje" voor 2GP.
+		- [[Vaags gelukskraampje]]: Lange marktkraam die uitpuild van de kleine en grote snuisterijen. Oud antiek serviesgoed, banken, oorbelletjes, goedkope kettingkjes.
+			- Investigation 18: Oude dragonchess set: 1GP, zeldzame oplage van een oude maker. 8SP gekocht
+			- Antieke drakenschaak set.
+	- We gaan naar de peper-wedstrijd-tent
+		- We zien een grote circus tent; we zien Vi (zelfde als Kasem, maar dan een rood gewaad met filigrijnen pepertjes).
+		- Kuromi en Saartje gaan meedoen aan de wedstrijd: een mandje met verschillende pepers en een kan melk.
+		- Vi: "Welkom bij de Arun peperproef. Is iedereen er klaar voor, pijn te proeven, vuur te voelen?"
+		- Rondes
+			- Gnome: Overleeft de eerste ronde
+			- Oude man: Eet alle pepers in eens op
+			- Kuromi: 8, con save: 9, con save 16; 2, con save 6 => Winnaar
+			- Saartje: 10, con save disadvantage: 20; con save 14 => Winnaar
+		- We beginnen over de likeur waar Vi bij is:
+			- Hij begint te lachen: Je bent bij de verkeerde exotische markt. Wij zijn een markt voor het volk. Sinaasappellikeur is meer voor de adel... Maar... misschien? Heeft een van de rijke koopfamilies er een staan.
+		- Liesel neemt een paar pepers mee.
+			- Kerstomaatje
+			- Sweet heat pepper
+			- Doodshoofdspeper
+- Tienmun noodlebar:
+	- Sinaasappellikeur: Misschien die snob van een Xungoon wel
+- Xungoon?
+	- Onderweg komen we langs Vada's buitenaardse toetjes
+	- Vada: "Waar zijn mijn vanillebroodjes?".
+	- We zien een spoor van poedersuiker bij Tienmun.
+	- Kuromi insight check: 17. Oprechte verbazing en verwarring
+- Vanity: message "Zeg nu de waarheid".
+	- Intimidation: 19
+	- Sleight of hand: 16
+- Twee andere spel-tenten
+	- De garnalen stampij: Geuren van koken
+		- 
+	- Rups me niet: Kleine gerimpelde gnome vrouw (gezien bij de zijdewinkel). Zitten rupsen ter grootte van een kat in haar kleding en haar.
+		- Tante Kulp: Er zijn rupsen verstopt om die terug te vinden en te brengen.
+- Rups me niet challenge
+	- Initiative
+		- Arie: 24
+		- Vanity: 21
+		- Kuromi: 10
+		- Saartje: 2
+	- Round 1
+		- Arie: een rups gevonden, maar hij vlucht
+		- Vanity: vind geen rupsen (perception: 6), investigation: vind 1 rips
+		- Kuromi: perception 15 => niets, perception 17 => 1 rups
+		- Saartje: Teleporteert richting Vanity en pikt haar rups op.
+	- Round 2
+		- Arie: Rent naar de volgende kamer en vind hem
+		- Vanity: Rent naar Arie en gebruikt sleep op de rups om hem op te pakken
+		- Kuromi: Animal handling om hem op te pakken; vertrouwen opwekken, houd hand uit, geduldig wachten
+		- Saartje: Rent naar de grootste kamer en zoekt (perception 11): Geen rupsen gevonden
+	- Round 3
+		- Arie: Rent naar een ruimte: 21 investigation
+		- Vanity: Zoekt bij Saartje en vindt niets, maar is ook wel vrij zeker dat er niets zit
+		- Kuromi: Pakt de laatste rups op (animal handling 19)
+	- Missie geslaagd!
+- Garnalen stampij
+	- Bundels groene bonen, zo lang als een meter
+	- Glazen tank, kolkt en bruist, terwijl schimmige vormen er doorheen bewegen
+	- Sid Sepia
+		- Het is eigenlijk gewoon een kookwedstrijdje
+		- 6 rondes
+		- We doen de mise en place
+		- Twee ingredienten: bospeulen, reuzengarnalen (1)
+	- Initiative
+		- Kuromi: 20
+		- Arie: 17
+		- Saartje: 14
+		- Vanity: 11
+	- Round 1
+		- Kuromi: 19 attack, 2 damage
+		- Arie: Rent naar het aquarium maar heeft geen 
+		- Saartje: Cleave nat 20+5. Crit 1d12+3 = 19
+		- Vanity: Attack roll 9 om bonen te hakken
+	- Round 2:
+		- Kuromi: 21 attack, 3+2 damage = 5.
+		- Arie: Rent naar tafel 2 en hakt in op de bonen (17 to hit, 7 damage + Nat 1)
+		- Saartje: Brengt de reuzen garnaal richting de eerste wok
+		- Vanity: Attack roll 14 hit. 3 damage
+	- Round 3:
+		- Kuromi: Attack roll 4, miss
+		- Arie: Hakt met zijn zwaard: 11 to hit, raak; 9 damage, alles klein gehakt
+		- Saartje: Brengt de reuzen garnaal naar de eerste wok en loopt door richting de tweede
+		- Vanity: mist...
+	- Round 4
+		- Kuromi: Attack roll 17, raak! 5 damage
+		- Arie: Attack roll 16, 8 damage. Done!
+		- Saartje: Brengt zonder veel moeite de garnaal naar wok 2, met veel hulp van Arie
+- We gaan richting Xungoon
+	- We vragen naar de sinaasappel likeur. Die heeft ze inderdaad!
+	- Ze is recent bekogeld met fruit, door een onzichtbare bron.
+		- Investigate: 21, 11, 4
+		- Kuromi herkent het als Kaki fruit
+		- Arie: waarschijnlijk gegooid binnen gezichtafstand van het markstalletje. Er worden helemaal **geen kaki vruchten verkocht**. Niemand weet het. We krijgen nog wel mee, bij de Xungoon restaurant heb ik wel een heel klein blauw aapje gezien.
+	- We gaan onderzoeken
+		- Arie gebruikt prestidigitation met bananen geur (12)
+		- Saartje en Kuromi perception (24, 18)
+		- Vanity (22)
+		- Group check: success, we zien
+	- Kuromi & Wynling
+		- Wynling praat in Sylvan, lijkt even op Druidic.
+		- Gespeeld bij de tent
+		- 3 broertjes, wonen in de tent van Kasem.
+	- We gaan naar een fruittent, en kopen wat fruit, gaan naar Kasem
+		- We hebben net een blauw aapje geinterviewed
+		- Wynnie
+	- Hij gaat ons voor naar een prive tent
+		- Mijn broer gaat trouwen. Hij laat mij alleen achter. Het is nogal ongebruikelijk maar ik hoopte dat ik een ander markttentje kan afnemen.
+	- Beloning
+		- Resterende goudstukken
+		- Stoffige fles met een sinaasappellikeur
+		- Noodles at will
+	- Man met zwart haar met gouden lokken, gouden ogen. Vrouw met blauw zilvergrijze mantel. Rince en Alma, gearmd.
+- Kampioenenstrijd
+	- 2 enemies
+		- Aarakocra druid: Asharra
+		- Goliath barbarian: Aaruk Thundercaller
+	- Initiative
+		- Saartje 17 (swap met Arie)
+		- Arie 19 (swap met Saartje)
+		- Kuromi 14
+		- Vanity 2
+	- Round 1
+		- Saartje: BA Rage en rennen
+		- Arie: Shortbow, 10, mist
+		- Kuromi: Frost bite, CON save faalt. 4 damage (resistance = 2)
+		- Aaruk: Attack met Disadvantage (frost), miss; tweede attack 23 hit: 14 slashing damage => 7 damage
+		- Asharra: Spreid haar vleugels, een staf begint te gloeien. Saartje WIS save (20). Success!
+		- Vanity: Dissonant whispers op de goliath (21 saves). 5=>2 damage.
+	- Round 2
+		- Saartje: Attack op goliath (11 to hit = miss) + 1 bardic inspiration (raak!) 13+2 slashing damage.
+		- Arie: Sneak attack: (15 to hit) 10 damage, (advantage: 13 to hit) 7 damage.
+		- Kuromi: Attack roll: 18 => 7 damage.
+		- Aaruk: valt Arie aan; eerste aanval mist, tweede aanval hit (15=AC) met 11 schade
+		- Asharra: Duikvlucht met thunderwave - 8 thunder damage. 
+		- Vanity: Cure wounds op Arie: 11 healing!!
+	- Round 3
+		- Saartje: 21 to hit. 5+2 slashing damage.
+		- Arie: 18 to hit, 10 damage; 18 to hit, 6 damage.
+		- Kuromi: Attack roll (9) + bardic inspiration (1) => miss :(
+		- Aaruk: valt Saartje aan (16, 21; 2 hits). 12 damage. 10 damage.
+		- Asharra: Zwaait met haar staf, WIS save (4) paralyzed.
+		- Vanity: Sleep op Asharra, die valt uit de lucht
+	- Round 4
+		- Saartje: 21 to hit. 11 damage => DOWN! Cleave op Asharra - Nat 20. 15+2+11 = 28 damage. DOWN!
+- 

@@ -1,0 +1,17 @@
+---
+tags: person
+---
+-   Verschijning
+	-   Onopvallende grijze kleding
+	-   Grote bruine ogen
+	-   Kortgeknipt krullend zwart haart
+-   Opgegroeid in Waterdeep
+-   Op vrij jonge leeftijd bij stadswacht
+-   Rol rechercheur bij [[Grijze hand]]
+-   Trots op Waterdeep
+- Tells
+	- Knipt met haar vingers als ze tot actie over wil gaan
+	- Verwacht dat mensen meebewegen wanneer ze tot actie over wil gaan
+- Spy master specialized in infiltration and setting up informant networks
+- Baas van [[The Silent Blades]]
+- 

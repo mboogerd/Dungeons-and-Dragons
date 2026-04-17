@@ -1,0 +1,459 @@
+# Preparation
+## Vignette
+- Met leiders van de stadswacht:
+	- Detectie grid vormen, samen met eigen squad
+	- Bij detectie:
+		- Risico compartmentaliseren m.b.v. tunnel
+		- Omstanders beschermen
+- Met Yuino: op de hoogte brengen van een mogelijke Yokai intrusie, en wat het doel daarvan is.
+- Met eigen squad
+	- Compositie?
+		- Cleric voor buffs en healing
+		- Paladins voor buffs en tank
+		- Fighters
+		- Ranged Fighters
+		- Wizard voor utility
+	- Grid vormen in de stad, samen met wachters
+	- Bij detectie:
+		- Bied harde weerstand wanneer de Yokai verleid wordt tot stennis schoppen. Laat opening richting tempel district
+		- Bied zachte weerstand op zijn geanticipeerde pad: Vorm een pad van bamboo
+			- genoeg om te testen of die daar echt heen wilt, en om hem te vertragen zodat achterliggende strijdkrachten omlopend weer voor hem kunnen komen
+			- niet genoeg om hem totaal te ontmoedigen
+## Character introduction
+- Battle nerd
+	- Loves to prepare, execute and evaluate combat.
+- Stern, but fair on basics
+	- Focus fire on the most important threat
+	- Clear role division
+- Modern leader
+	- invites bottom-up ideas and initiatives
+	- demands clear communication when deviating from role
+
+![[Fukumi Baatar#Gezegdes]]
+
+# Saturday Session
+
+## Vignette [[Ji Jon Wo|Ji]]
+- [[Ji Jon Wo|Ji]] nadert een grote markt voor kostbare materialen.
+- "Dieven, ze hebben een hele kar gestolen!"
+- Perception:
+	- Een zespotige Kami zie je voor je uit in de straat
+	- Links en rechts gebouwen
+- Ji rent omhoog om te kijken
+	- De dieven, en de kami met kar bewegen samen op hoge snelheid weg over de markt.
+	- Ji springt van het gebouw, op het doek van een kraampje, gebruikt als trampoline. Duikt onderdoor een kraampje, door benen, gebruikt palen om aan te slingeren om in korte tijd de Kami in te halen
+- Twee wachters gezien, maar zij hebben niet opgelet.
+	- Ji roept ze, "Op de kami met de grote kar, roep versterking!"
+- Ji stopt uiteindelijk de kar
+- Hij voelt de grond trillen, het lijkt het begin van een **aardbeving**
+## Vignette [[Kurai Tora|Kurai]]
+- Kurai krijgt de opdracht bij tot een assassination. Iets wat Kurai weigert.
+- De spanning is tastbaar
+- De komende protest leider gaat spreken **tegen het ritueel van hergeboorte**
+- Protestleider heeft een mogelijke assassin (Akira), dat moet voorkomen worden.
+- Kurai cast Locate creature. Automatic success op localiseren
+- Aan de overkant van het plein is een klokketoren, je weet dat ze onder de toren is, en deduceert dat ze vanaf hoog in de toren
+- Kurai installeert zich in een hiding spot in het verlengde van het platform en de klokketoren
+- Kurai neemt haar schot, en de aarde begint te trillen. Ze mist (two Nat 1!!!), maar converteert naar een lightning arrow waarmee ze Akira raakt.
+- De trillingen worden heftiger...
+- Akira is waarschijnlijk wel bewust dat dit Kurai was.
+## Vignette [[Yuina Amano|Yuina]]
+- In de Japanse tuinen, samenspel van spiritualiteit.
+- Kleine altaartjes met as van voorouder.
+- [[Yuina Amano|Yuina]] voert een plechtigheid uit, een ongebruikelijke, tegenover een man ([[Takeshi Tachibari]])
+	- Yuina is niet in haar armor, mat gekleed, wel clan kleuren (groen en goud)
+	- Stil, serieus
+	- Lijkt de man goed te kennen
+	- Sereen, rustige platen bewegingen.
+	- Ogen warm en zacht
+- De grond begint te beven
+	- Geluid van scheurende aarde vult de lucht
+- Net boven de horizon ziet Yuina een soort ronde vorm van wat lijkt op een Yokai, boven de huizen uitstijgen. Als die niet beweegt houdt de trilling op
+- De tuinen zijn de veiligste plek
+- Dit voelt als de verstoring die je zolang al aanvoelt
+- Je ziet een gebouw dat dreigt in te storten, en je hoort burgers uit ramen schreeuwen
+- Ze fluit en [[Tengshou]] verschijnt en pakt haar shield en wapen. 
+- Ze springt op [[Tengshou]] en stijgt tot 20ft / 1 etage, en cirkelt rond de gardens en roept de keepers op om direct in actie te komen.
+- Mensen komen uit alle kanten aanrennen om in veiligheid te komen in het park
+- Yuina pakt wat kinderen op [[Tengshou]] en brengt ze in veiligheid
+- Gaat in gebouwen en haalt ook daar nog iemand uit
+- Ze schrijft een briefje, vouwt het op, en stuurt het weg
+- Keepers begeleiden de mensen naar de tuinen
+- De balans tussen Kinkou en kami lijkt onherstelbaar verstoord
+## Vignette [[Fukumi Baatar|Fukumi]]
+- Artisan district
+- Yokai: enorme duizendpoot
+- Team: 20 elite Yokai hunters
+- De zwakte zit waar de leden samen komen
+- Controle houden
+- Hij lijkt door te breken
+	- Niet te veel schade aanrichten
+- Nadert het tempel district, maar de richting is toch wat onverwachts
+- Lijkt het paleis district op te gaan
+- Battle
+- Laatste delen van bellen en tromgeroffel. Clanleiders verzamelen in het paleis.
+# Hints
+- Aardbeving
+- Onrust tegen ritueel van hergeboorte
+- Yokai gaan richting Paleisdistrict
+- Grote Yokais!
+# Richting het Paleis
+- Yokai beginnen te verschijnen, veroorzaakt chaos
+- [[Kurai Tora|Kurai]] krijgt een paper bird
+- Komen aan in het paleis
+- We zien beschermende magie in werking treden zodra Yokai het paleis betreden
+	- Lijkt ze te verwonden
+- Wachters hebben de situatie onder controle
+- Fukumi kan haar wapens meenemen bij de ontmoeting met de keizer, maar de rest niet
+# Ji verteld
+- [[Ji Jon Wo|Ji]] heeft opgemerkt dat
+	- [[Meiko Atsuda]] (leider van het Tempeldistrict), onder de duim van de keizer, bezig met haar positie behouden aan tafel
+	- [[Riku Tanaka]], leider van het Ambachtsdistrict
+	- [[Katsuro Yamamoto]], leider van het Uitvindersdistrict: Beetje chaoot. Moeite om te zien wat hij wilt. Lijkt de keizer te vertrouwen
+	- [[Aiko Hanako]], leider van het Entertainment district
+	- [[Hiroshi Takeda]], leider van het Boerendistrict
+	- [[Takeshi Mori]], generaal
+	- De keizer heeft zo'n groot charisma dat het je beïnvloed
+- [[Yuina Amano|Yuina]] geeft aan [[Kurai Tora|Kurai]] een platinum ring
+- Raadzaal
+	- Grote tafel met kaart van de stad gegraveerd in het oppervlak
+- Takeshi begint met de briefing
+	- Sinds een half uur: Yokai steeds sneller manifesteren.
+	- De verwoestende aardbeving door de duizendpoot Yokai.
+	- Vele burgerslachtoffers, meer is niet bekend.
+	- Ik maak me zorgen dat dit een nieuwe Kami oorlog kan zijn.
+- De deuren van de prive vertrekken openen en [[Keizer Reigen]] komt binnen
+	- Charm!
+	- Fail (charmed): [[Kurai Tora|Kurai]] & [[Fukumi Baatar|Fukumi]]
+	- Success: [[Ji Jon Wo|Ji]] & [[Yuina Amano|Yuina]]
+- [[Keizer Reigen|Reigen]]: Dit is _geen_ Kami oorlog. Dat is een misverstand. Minstens nog 400 jaar weg. 
+	- [[Ji Jon Wo|Ji]] insight check: 36. Hij oogt toch wel iets nerveus. Hij weet zich misschien zelfs geen raad. Verbergt dit achter een zelfverzekerd persona.
+	- [[Yuina Amano|Yuina]]: insight. fail
+- [[Riku Tanaka]] we moeten de stad en haar inwoners beschermen. Dat gaat lukken
+- [[Meiko Atsuda]] luisteren jullie wel naar de keizer?
+- [[Aiko Hanako]] als ik de gemoederen zo hoor, dan kunnen we tot iets te komen. Misschien met een klein team wat onderzoek doen? Misschien een kleine task force zoals [[Ji Jon Wo|Ji]] voorstelt.
+- [[Riku Tanaka]] kijk eens in het tempel district. Sinds [[Meiko Atsuda]] daar de leiding heeft lijken de Yokai problemen toegenomen.
+# Special task force
+- [[Yuina Amano|Yuina]] cast death ward op [[Kurai Tora|Kurai]]
+- [[Yuina Amano|Yuina]] neemt ons mee naar de tuin in het paleis en claimt een stuk in de tuin
+- [[Yuina Amano|Yuina]] heeft de Kami gevraagd om steun bij haar nieuwe rol. Haar zicht is anders sindsdien (Truesight), kami kan zien voordat ze zich manifesteren.
+- [[Kurai Tora|Kurai]], [[Meiko Atsuda]]'s houding en intensiteit is veranderd. Met name als het gaat om het ritual of rebirth. De laatste tijd wel goede gesprekken, maar vooral intens tegen.
+- Belangrijke mythe van de kami war: begon met Nisai en Reigen.
+	- Reigen is onsterfelijk geworden door een kami-ding, Nisai was het daar niet mee eens; start van de oorlog
+- History check
+	- 1200 jaar geleden: versterken van bindings.
+- Opties
+	- [[Takeshi Tachibari]] kunnen we raadplegen
+	- Tempel district bestuderen, tempel van Nisai in het bijzonder
+- We gaan via de tuinen naar het tempel district.
+	- [[Yuina Amano|Yuina]] ziet een enorme dichtheid aan Yokai; continue spawns, zoveel die elkaar in andere dimensies duwen.
+	- Dichtheid is inderdaad het hoogst bij de tempel van Nisai.
+	- Zodra we bij de tempeltrappen zijn, houden de spawns op.
+- Nature check: 25 - Yokai zijn single minded, gaan richting het paleis, niet zozeer weg van hier
+- We kijken naar de deur, die is dicht. We gaan naar binnen
+	- Donkere hoekjes lijken iets te fluisteren
+	- Beelden van abstracte, verwrongen vormen. Cryptische gezichten, grijnzende aap en half vuur. De lucht voelt kil.
+	- Tempel is gemaakt om mensen af te weren
+- [[Ji Jon Wo|Ji]] deelt: deze tempel is bewust gemaakt om mensen af te weren
+- [[Fukumi Baatar|Fukumi]] door wie is deze tempel gebouwt?
+- [[Ji Jon Wo|Ji]] gaat zoeken naar plekken waar mensen echt expliciet wordt weggehouden.
+	- [[Kurai Tora|Kurai]] doet onderzoek (met hulp van [[Fukumi Baatar|Fukumi]]) naar een muur, en ontdekt op 1 muur wat krasjes op de vloer en verandering in textuur van de stenen.
+	- [[Kurai Tora|Kurai]] weet dat er soms geheime doorgangen, vaak steen, zonder handles. Ze zoekt door en vind een rand waar de stenen niet _echt_ aansluiten.
+- Achter de deur bevind zich een spiraalvormige trap. De omgevingstemperatuur begint drastisch te dalen. Aanvankelijk is dat nog te verdragen, maar het wordt ook steeds donkerder.
+	- Wanden van ijs reflecteert het licht in vreemde patronen, alleen dankzij ons magisch zicht zien we nog iets
+	- Onze lichamen beginnen stram aan te voelen
+	- Voor ons is een enorme deur met een dikke laag ijs
+	- Deur met deurklink. Ijs aan de randen.
+- Kamer achter de deur
+	- Overweldigende golf van warmte, magisch comfortabel, onzichtbare kracht die ons beschermd. Gepolijst obsidiaan. Lichtzoete geur. Beeltenissen van Nisai van de aap.
+	- Aan het einde van de gang een nieuwe deur van force energy. Voelt uitnodigend en dreigend.
+	- Investigation: 28
+	- [[Kurai Tora|Kurai]] ziet
+	- We moeten allemaal onze ogen dichtdoen om door de poort te kunnen komen
+- Nieuwe kamer
+	- We staan in de leegte. Alleen met darkvision iets te zien 5x5x3 meter.
+	- Vloeren, muren en plafond lijken het licht op te slokken
+	- In het midden een stenen tablet, 50cm, draait langzaam om zijn as.
+	- Bij een stap naar voren halveert je lengte
+	- [[Kurai Tora|Kurai]] ziet een d4 aan de binnenkant van de tablet cage. Pilaren met inscripties, vlak omhuld met licht.
+	- Halverwege de kamer zijn wij ongeveer 3cm, en de tablet 50x50 meter. Iets meer rechthoekig. Het zweeft ongeveer 320 voet boven ons.
+	- [[Yuina Amano|Yuina]] en [[Kurai Tora|Kurai]] vliegen samen naar boven op [[Tengshou]] en zien vanaf zekere hoogte dat er inscripties staan op de tempelpilaren. [[Yuina Amano|Yuina]] kan het celestial script lezen: "Wij waken zodat deze kracht nooit vrij zal komen".
+	- De scheur ziet er uit als een portaal, hij pulseert in grootte.
+	- [[Kurai Tora|Kurai]] observeert dat deze plek mogelijk het middelpunt van het forcefield buiten
+- In de dice jail
+	- Zodra [[Ji Jon Wo|Ji]] en [[Kurai Tora|Kurai]] naar binnen stappen initiative.
+- Mistige ruimte
+	- Vreemde sfeer van deze omgeving
+	- Kleurrijke nevels
+	- Droomlandschap
+	- Material plane en het plateau zijn nog door een soort matglas zichtbaar
+	- In deze nevelige ruimte zien we nog vaag de tetrahedron. In het midden zit een opvallende figuur in kleermakerszit. Een kleine aap, in een gouden harnas, en een rode tuniek en sjaal.
+	- Hij spreekt
+		- Niet wat jullie hadden verwacht zeker?
+		- 2200 jaar geleden stal [[Keizer Reigen|Reigen]] een deel van mijn kracht, om daarmee onsterfelijkheid te verkrijgen.
+		- Heavenly Kami
+		- 1200 jaar geleden is er iets veranderd waardoor hij de bindingen van zich kan afwerpen. Als hij het nu doet verzwakt hij buiten zijn cel.
+		- [[Keizer Reigen|Reigen]] sloot mijn verzwakte lichaam op in dit magische rijk. Deze tetrahedron vertraagd mijn magische regeneratie krachten.
+		- Zielen kunnen niet normaal reincarneren, of naar de helem gaan. Daarom raken zielen hier gevangen.
+		- [[Keizer Reigen]] verdeelde mijn krachten, en nam controle over de manier waarop kami's werden hergeboren. Alleen het plooibare deel werd herboren, en de niet plooibare delen zitten hier vast en komen in opstand
+		- Een mysterieuze kracht van buiten versloeg mij opnieuw. Naast de gewone Kasanjin, waren er ook anderen: elven (die waren verbannen met de eerste Kami oorlog).
+		- 800 jaar geleden voelde ik een nieuwe mismaking van mijn krachten. Kami's werden huisdieren voor rijke Kasanjin.
+		- 400 jaar geleden bereikte de steen zijn capaciteiten opnieuw.
+		- Wat me verbaasde is hoe snel deze wereld zich weer vulde met zielen.
+			- Lijkt door de explosieve groei van Kinkou, de stad
+		- [[Keizer Reigen|Reigen]] heeft ons contract gegraveerd in een scroll, en die ergens verborgen.
+	- [[Ji Jon Wo]] insight (38):
+		- [[Nisei]] liegt niet, maar verteld misschien niet de hele waarheid, of verdraait die in zijn voordeel.
+		- [[Nisei]] is misschien niet _alleen_ de Kami van Reincarnatie.
+	- Vragen
+		- Wat is jouw visie op wat er zou moeten gebeuren.
+		- Wat heb je nodig van ons?
+		- Wat is de betekenis van Nisai's icoon van een half apen gezicht en half vuur? Wat is het vuur onderdeel daarin?
+			- Vuur staat voor de reincarnatie? Voor het oprijzen uit de as.
+		- Jullie zijn niet de eersten die hier komen. Wie waren dat? De vorige keer was hij zelfs bevochten.
+		- Het is deel van zijn natuur niet, niet te liegen.
+		- History check 17
+			- Een van de karakters die ik heb gelezen; Dat karakter klinkt ook als Nisai. Dit stond in de bron over het versterken van de bindingen voor Nisai in zijn twee characters.
+			- Mijn opsluiting maakt mijn deel van de kracht der reincarnatie onbruikbaar, zielen komen vast te zitten.
+		- Het contract moet vernietigd worden, wat er dan zal gebeuren; hij krijgt zijn kracht terug, en zal kunnen ontsnappen uit deze plane. Zielen zullen dus niet langer trapped blijven. En overleden zielen zullen weer op eigen wil weer kunnen terugkeren met reincarnatie of doorgaan naar de heavenly plane. De kami of the land zullen terug gaan naar de spirit realm, om zich opnieuw zullen uniten met hun niet moldable deel in de spirit realm.
+		- [[Keizer Reigen|Reigen]] zal gestraft moeten worden, wraak is nodig voor [[Nisei]] om terug te keren naar de heavenly plane.
+		- [[Nisei]] heeft net genoeg macht om de Yokai te sturen naar het paleis.
+			- We kunnen een tijdelijk een staakt het vuren instellen.
+	- Contract vernietiging
+		- Zit goddelijke energie in, waarschijnlijk best veel
+		- Ook lastig te vinden
+	- Leads
+		- Plans krijgen van het paleis (riolering en airvents)
+		- [[Takeshi Tachibari]] testen
+			- Progressief proberen om hem te informeren over het contract met [[Nisei]] en kijken waar hij staat
+			- Kijken hoe hij aan toegang is gekomen voor de bibliotheek.
+		- Deception om binnen in de bibliotheek te komen
+		- Bibliotheek in komen
+			- Palace plans zoeken binnen de military barracks.
+				- Locatie bibliotheek => contract vinden
+				- Locatie beveiligingsmechanisme => uitschakelen
+			- [[Takeshi Tachibari]] uitvragen
+			- Deception
+			- Brute force
+
+# Sunday Session
+- We bevinden ons aan de buitenkant van de donkere kamer, op veilige afstand van het tableau.
+- We gaan met de ogen dicht terug de portal door
+- We staan klaar om de bevroren deur open te maken.
+	- [[Yuina Amano|Yuina]] houdt haar wapen naar voren en ze zegt "Ik weet dat het voor jullie niet onbekend is dat een kami gebonden kan zijn aan een wapen, maar als ik het goed begrepen heb hebben julie zelf ook een diepe band met die Kami's. Er zijn een heleboel Kami's waarmee ik een diepe band heb. Maar dat geld neit voor de kami in dit wapen. Ik dacht meteen te weten wie ze is. Want ik ken haar uit een van mijn favoriete verhalen, maar ze is wel de villain uit dat verhaal."
+	- [[Yuina Amano|Yuina]] zet haar wapen tegen de muur, en haalt uit een van haar tassen een van de origami kraanvogels. 
+		- Warugi: jealous sister
+		- Chori: de kami of paper arts. Folding a thousand paper cranes a day.
+	- [[Yuina Amano|Yuina]] gebruikt Warugi om Summon Fiend te casten.
+		- Rik: dit krijgt een andere betekenis. het is geen kami zoals je ooit hebt gezien. Dit is niet het plooibare deel van een kami, maar een volledige kami.
+	- [[Yuina Amano|Yuina]] "redemption is possible, you just have to want it.", "please, open the door".
+		- De fiend opent de deur met fire damage, met vrij veel gemak
+
+- Short rest
+	- [[Kurai Tora|Kurai]] recovered haar level 1 exhaustion
+	- [[Yuina Amano|Yuina]] recovered 160HP en een divine intervention
+	- [[Fukumi Baatar|Fukumi]] recovered 20HP en een Action Surge
+- [[Ji Jon Wo|Ji]] & [[Fukumi Baatar|Fukumi]] gaan naar de barakken om de plannen op te halen.
+	- De clerk schiet in de houding, maar complied.
+	- We hebben de plannen opgehaald en gaan richting de tuinen.
+- [[Yuina Amano|Yuina]] & [[Kurai Tora|Kurai]] gaan naar [[Takeshi Tachibari]] 
+	- [[Takeshi Tachibari|Tachibari]] is blij om ze te zien
+	- Ze geven aan dat de Yokai zich terugtrokken uit de tuinen
+	- [[Takeshi Tachibari|Tachibari]] "Het heeft me altijd gestoord dat er zo weinig bekend is. Dat alleen is al vreemd. Het is wel duidelijk dat er een patroon is. ik vermoed dat de kami wars iedere 800 jaar plaatsvinden, dan zou de volgende inderdaad 400 jaar weg zijn. Wat ons verteld wordt lijkt afgestemd op het beetje historie wat selectief behouden lijkt, want de omliggende periodes zijn beter beschreven en behouden dan de oorlogen zelf."
+- In de tuinen
+	- Zoek allies
+		- Protesters ritual van rebirth
+		- [[Takeshi Mori]] 
+	- Zoek ingang naar de bibliotheek
+		- [[Takeshi Mori]]
+	- [[Ji Jon Wo|Ji]] vraagt aan [[Aorihan]] "ben jij hier vrijwillig"
+		- Je krijgt een weifelend gevoel terug
+		- Hij wil iets zeggen maar kan dat niet
+		- Ji wil het via de raad oplossen, want hij wil een machtsvacuum zo goed oplossen als kan.
+	- Protestleider
+		- Protest organiseren achter het paleis, om de bescherming uit te dunnen
+		- Plan B: Zorgen dat de protestleider kennis heeft van de situatie
+	- Afleiding van de keizer?
+		- [[Takeshi Mori]]?
+	- Plattegrond
+		- Persoonlijke vertrekken zijn direct aangesloten op bibliotheek en raadsruimte, en enkele gardens
+		- Geredigeerd gebied zijn een aantal verdiepingen boven elkaar. Lijkt eerder omlaag te gaan dan omhoog.
+	- [[Takeshi Mori]]
+		- Summon [[Takeshi Mori]] in de gardens
+		- Progressief meenemen in het verhaal
+			- Haal guard weg en vervangen met eigen Yokai elite guard inzetten als cordon rondom de vertrekken (intimidation: 21. success)
+			- Indien meewerkend: Afleiding creëeren (zo ver kunnen we niet gaan: Insight 25, fail)
+			- wapens meenemen in het paleis (persuasion met advantage: 26, success)
+	- [[Ji Jon Wo|Ji]] afleiding: vogeltjes sturen. We brengen een rapport aan de raad uit.
+
+## Naar de privé vertrekken
+- De guard laat ons door, met wapens: **Success**
+- We komen onderweg naar de vertrekken een aantal envoys tegen, die nieuwsgierig zijn naar onze rapport. Intimidation: **Success**
+- We komen nog een aantal wachters tegen, maar ze laten ons door
+- We komen bij een grote ornate deur aan, met de personal guard van de keizer. Intimidation. Installeer 5,5,10 hunters als verdediging. Check.
+- [[Kurai Tora|Kurai]] - Detect Magic: Abjuration magic op de deur
+- [[Yuina Amano|Yuina]] - Ziet niets extra's met truesight. We gaan op afstand staan en [[Yuina Amano|Yuina]] cast dispel magic, targeting the abjuration magic.
+- [[Kurai Tora|Kurai]] doet de deur open en we lopen naar binnen.
+- Prachtige rechthoekige kamer
+	- Rijk gedocoreerde ontvangstruimte. Zitplekken, persoonlijke memento's.
+	- Het meest opvallend: de dichte energie.
+		- [[Kurai Tora|Kurai]] ziet stromen van evocation magic.
+		- [[Ji Jon Wo|Ji]] voelt het als een Ki stroom.
+	- Schaakbordpatroon van kleur
+		- Donkerrode basalt tegels
+		- Aan de randen marmeren tegels
+	- Meerdere vuurhaarden/vuurkorven met eeuwigdurend vuur
+	- Meerdere torches hangen aan weerszijden aan de muur
+	- Langs de torches vallen watervalletjes naar beneden in poelen, of verdwijnt op magische wijze in het niets.
+	- Aan het plafond hangen banieren met dezelfde elementen: aarde, vuur, wind, water; lijken te wapperen in een wind die er niet is.
+	- Meer magie dan we tot noch toe hebben gezien, alle elementen zijn vertegenwoordigd.
+	- Aan de achterkant zien we een wenteltrap.
+	- [[Kurai Tora|Kurai]] loopt richting de trap en kijkt onderwijl om zich heen
+		- Er liggen gesloten boeken her en der
+		- Vooral veel gebruiksvoorwerpen
+		- Er liggen geen geschreven zaken
+	- Onder aan de trap lijkt een onverlichte kamer met een soort mist over de vloer
+- Verdieping lager
+	- De mist lijkt abjuration magic, door de magische mist zien we ook niets
+	- [[Yuina Amano|Yuina]] ziet door de mist heen een bibliotheek
+	- [[Kurai Tora|Kurai]] cast dispel magic (17, beats DC16)
+	- De mist verdwijnt en we zien een uitgebreide bibliotheek, een waar doolhof.
+	- We onderzoek de kamer voorzichtig, en we zien geen traps of magic, enkele boeken geven magie af.
+	- De boeken die we vinden zijn recent, hoe verder terug, hoe verder terug in de tijd.
+	- We gaan naar 2000 jaar in het verleden. 
+	- [[Kurai Tora|Kurai]] cast opnieuw detect magic
+	- [[Kurai Tora|Kurai]] ziet vanuit haar ooghoeken in een kast, zwaardere abjuration magic, in de vorm van een leuk of deur, met boeken er voor. Er om heen zie je tekenen van vier elementen: vuur, aarde, water, lucht. In het midden zien we nog een symbool die we niet kunnen plaatsen. [[Ji Jon Wo|Ji]] lijkt dit te herkennen als een symbool voor een bepaalde aanval.
+	- [[Ji Jon Wo|Ji]] voert een kata uit: d100: 98!!! Staat voor een force strike.
+		- We houden de verschillende elementen bij de kluis en [[Ji Jon Wo|Ji]] doet een force strike 
+			- Kluis gaat open
+				- We zien een imposante, sierlijke rol, gestopt in een glazen scroll container. Geschreven in celestial, in bewegende letters, alsof het leeft. [[Yuina Amano|Yuina]] leest voor
+					- Door dit akkoord komt de ondergetekende, hierna te noemen Nisei, overeen en verleent het volgende:
+					- **Clausule 1**: Nisei, deelt met de houder van dit pact, hierna te noemen Reigen, over:
+						- a) De helft van zijn recht en macht over reïncarnatie na de dood, hierna aangeduid als de Macht van Wedergeboorte.
+						- b) Gezag over hen die gereïncarneerd zijn door Reigen's deel van de Macht van Wedergeboorte, hen bindend in dienstbaarheid aan de drager.
+						- c) Onsterfelijkheid, gedefinieerd als immuniteit tegen overlijden door natuurlijke veroudering, ziekte of verwonding aan het lichaam van de drager.
+					- **Clausule 2**:
+						- De ondergetekende, hierna te noemen Reigen, draagt aan Nisei al zijn aanspraken, rechten en bevoegdheden over om de Kazanjin te bevelen en te controleren, inclusief zijn direct gezag en expliciete invloed. Van deze bevoegdheden wordt hierbij voor eeuwig afstand gedaan.
+							- Study bonus action: Hoeveel expliciete invloed heeft de Kazanjin daadwerkelijk?
+					- Beide partijen bevestigen dat de bovengenoemde voorwaarden billijk, bindend en eeuwigdurend zijn. Dit convenant wordt getuigd en verzegeld door de hemelse krachten die hierin worden vertegenwoordigd.
+			- Voor en achter ons ontstaan er muren van steen
+		- Water begint omhoog te komen
+		- Gaat 10 rounds duren voordat het ons verdrinkt
+		- [[Ji Jon Wo|Ji]] en [[Fukumi Baatar|Fukumi]] punchen samen een gat in de muur.
+		- [[Fukumi Baatar|Fukumi]] gaat in haar mist form en duikt door het gat. Ze loopt rondom de stenen kamer om iets te vinden waarmee ze de muren naar beneden kan krijgen. Geen succes
+		- [[Ji Jon Wo|Ji]] punched het gat verder en kruipt naar buiten
+		- [[Fukumi Baatar|Fukumi]] en [[Ji Jon Wo|Ji]] maken het gat aan de buitenkant groter voor [[Yuina Amano|Yuina]] en [[Kurai Tora|Kurai]].
+		- [[Yuina Amano|Yuina]] en [[Kurai Tora|Kurai]] kruipen naar buiten
+- **Roll Initiative**
+	- Initiative
+		- [[Kurai Tora|Kurai]]: 30
+		- [[Fukumi Baatar|Fukumi]]: 26
+		- [[Ji Jon Wo|Ji]]: 20
+		- [[Yuina Amano|Yuina]]: 14
+	- Round 1
+		- Het plafond wordt modder en stort in. De vault zit precies onder de welkomstvertrekken.
+		- [[Kurai Tora|Kurai]] wordt onzichtbaar, en steekt het contract in de fik. De keizer schreeuwt "nee". De container breekt, en het pact begint te gloeien. Het hele pact lijkt te breken. Het pact ontploft. Onze lichamen worden ongecontroleerd door de kamer geslingerd. Het voelt alsof de band met onze Kami's wordt verbroken.
+		- Een ijzige stilte daalt neer. [[Keizer Reigen|Reigen]] wordt ook geraakt, hij lijkt een soort uit elkaar te breken.
+		- [[Fukumi Baatar|Fukumi]]
+			- Bonus action: Know your Enemy
+				- Immune: charmed, frightened, poisoned
+				- Resistances: none (now)
+				- Net als Ji lijkt hij proficient in all saving throws
+			- Action
+				- 4 schoten, alleen laatste hit, maar hij vangt hem op als reaction
+		- Legendary action
+			- Raises walls between him and us
+		- [[Ji Jon Wo|Ji]] gebruikt superior defense en drinkt een potion
+		- Lair: stukjes steen vliegen door de ruimte, richting [[Keizer Reigen|Reigen]], mogelijk een muur vormend. De modder grond verandert terug in steen. [[Yuina Amano|Yuina]] komt vast te zitten in het steen
+		- [[Yuina Amano|Yuina]] gebruikt haar elder champion power en we voelen een intense kracht in haar aura. Ze cast aid op 5th level op [[Yuina Amano|Yuina]], [[Kurai Tora|Kurai]] en [[Ji Jon Wo|Ji]]
+		- [[Keizer Reigen|Reigen]] beweegt door de muur, hij lijkt nu resistant voor slashing, bludgeoning en piercing. Hij doet ook vier attacks met een of andere fire orbs.
+	- Round 2
+		- [[Kurai Tora|Kurai]] doet hunter's mark, en schiet haar pijl 1: hit (21 damage, halved). 2: 30 to hit.
+		- [[Fukumi Baatar|Fukumi]] doet een second wind (26 healing) en rent voorbij de muur, lost vier schoten waarvan 1 gevangen wordt, en een critical (sap)
+		- Legendary action: move
+		- [[Ji Jon Wo|Ji]]:
+			- hit, stunning strike, dc23 con save (save).
+			- 26 to hit: quivering palm. 15 force damage
+			- Flurry of blows
+				- 21 to hit => 33 to hit: 13 force
+				- 32 to hit => 19 force
+				- Hef quivering palm op: 10d12 (legendary resistance ingezet om te halveren): 31 force damage
+		- [[Keizer Reigen|Reigen]] oogt bloodied
+		- Lair: "Burn!" de muur valt weg, en vanuit de banieren en torches worden vuur en rook naar hem toe getrokken en door de hele kamer verspreid.
+		- [[Yuina Amano|Yuina]] neemt een healing potion (26 heal) en valt aan
+			- Miss
+			- Hit: 23 damage
+			- [[Tengshou]] attack missed
+		- [[Keizer Reigen|Reigen]] legendary action fireball op zichzelf: 46 fire damage
+			- [[Yuina Amano|Yuina]] gaat down, terug naar 1 HP, +60 HP undying sentinel
+		- [[Keizer Reigen|Reigen]] kijkt naar [[Kurai Tora|Kurai]]
+			- Disadvantage: 24 to hit.
+			- [[Yuina Amano|Yuina]] gebruikt haar reactie om haar shield te imposen: disadvantage: 32 to hit: 22 fire damage.
+			- 30 to hit: 23 fire damage. [[Kurai Tora|Kurai]] down, maar heeft death ward, recovered naar 1HP.
+			- Laatste attack mist met nat 1.
+	- Round 3
+		- [[Kurai Tora|Kurai]] gebruikt haar handcrossbows
+			- 31 to hit: 15 damage
+			- 26 to hit: 16 damage + dreadful strike: 12 damage.
+			- 24 to hit: 18 damage
+				- Er ontstaat vanuit zijn lichaam een enorme bal van vuur die los lijkt te komen.
+				- [[Keizer Reigen|Reigen]] gaat down, maar een vuur foenix draak vervangt.
+		- [[Keizer Reigen|Reigen]] roart als legendary action.
+		- [[Fukumi Baatar|Fukumi]]
+			- Tactical study action:
+				- Minder vatbaar voor fysieke aanvallen
+				- imuun voor vuur.
+				- 30 nature check: tempel flashback, andere phase van [[Nisei]], laatste fase van kracht.
+		- [[Ji Jon Wo|Ji]] doet twee attacks en hit met quivering palm
+		- Lair: de embers van de kamer en de fenix worden nog intenser.
+		- [[Yuina Amano|Yuina]] doet lay on hands (60HP) op [[Kurai Tora|Kurai]]
+		- [[Keizer Reigen|Reigen]] doet een legendary action: 17
+		- [[Keizer Reigen|Reigen]] valt [[Ji Jon Wo|Ji]] aan
+			- Beak: 31 to hit: 36=>18 fire
+			- Talon 1: 22 to hit: miss
+			- Talon 2: 27 to hit: hit. 21=>10 slashing. 16=>8 fire damage
+			- Zijn vuur verminderd => bloodied
+	- Round 4
+		- [[Kurai Tora|Kurai]]: Conjure Volley - 5th level AoE. (Dex 15 save fail, legendary resistance niet ingezet): 38 force damage
+		- [[Yuina Amano|Yuina]]'s guardian ability: attack 24. speed 0. 10 piercing.
+		- [[Fukumi Baatar|Fukumi]]: 8 attacks, veel misses
+		- Legendary action: attack op [[Ji Jon Wo|Ji]] missed, want disadvantage
+		- [[Ji Jon Wo|Ji]]:
+			- 31 to hit: 20 force damage, con save legendary resistance
+			- Releases quivering palm: 65 damage
+			- [[Keizer Reigen|Reigen]] valt uiteen in as wat zich overal verspreid en langzaam verdwijnt
+	- Einde initiative
+
+# Afwikkeling
+- Naar de raad gaan
+- Conclusie: counsel beslist.
+- Loot
+	- Spell scrolls: alles van level 1 tot 5
+	- Level 6
+		- Chain Lightning
+		- Mass Suggestion
+		- Globe of Invulnerability
+		- True Seeing
+		- Disintegrate
+		- Heal
+		- Harm
+		- Flesh to Stone
+		- Otto’s Irresistible Dance
+		- Sunbeam
+	- Level 7
+		- Prismatic Spray
+		- Teleport
+		- Simulacrum
+		- Plane Shift
+		- Etherealness
+		- Project Image
+		- Fire Storm
+		- Regenerate
+		- Reverse Gravity
+		- Finger of Death
+	- **Tome of leadership!!!**
+- Temple of Nisei
+	- Geen direct contact met [[Yūki no Kaze no Kami|Yūki]]
+	- Gaat tijd overheen voordat de delen van zielen elkaar hervonden hebben
+	- Portal naar Nisei is verdwenen
+- 

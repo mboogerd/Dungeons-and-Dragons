@@ -1,0 +1,9 @@
+- Wordt gehouden in de dojo [[The hall of war and peace]]. Groot toernooi wat een maand gehouden wordt.
+- Leider: [[Skricia]]
+- Martial tournament
+	- Individueel
+	- 4x4
+- Hoofdprijs
+	- Geld
+	- Training door master in de dojo
+	- Roem

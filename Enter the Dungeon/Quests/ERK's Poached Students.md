@@ -1,0 +1,1 @@
+- Previously, academics from Athkatla (Amn) were found trying to poach students from ERK university, leading to the death of one of them

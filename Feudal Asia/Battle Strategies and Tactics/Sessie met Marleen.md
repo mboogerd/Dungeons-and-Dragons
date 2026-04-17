@@ -1,0 +1,44 @@
+- Miro
+	- Formaties
+	- 
+- Vragen van Merlijn
+	- Hoe zie je zelf je rol?
+- Vragen van Marleen
+	- Shield
+	- Absorb elements
+- Ideeen van Marleen
+	- Megaveel reactions en bonus actions
+	- Volgorde van buffs
+	- Heading into danger
+		- Potion distributer
+		- Mounted
+		- Death ward
+		- Prepare bless
+	- Big Fight
+		- Potion of growth (10 min.) => Mount
+		- Aid
+		- Action: Cast circle of power (5th)
+		- Bonus action: activate elder champion (1 min.)
+		- Start of Turn
+			- Elder champion
+			- Is anyone down or about to be?
+				- (Misty step)
+				- Heal 
+			- Divine favor
+
+- Potions
+	- Potion of heroism
+	- Rare potion: Potion of vitality (gets rid of exhaustion)
+	- War room
+		- 5 potions of watchful rest (wakker blijven tijdens long rest)
+	- Potions of comprehension
+	- Potions of climbing
+- Death ward op Kurai
+	- Aid op de rest
+- Trident
+	- BA: Vooral command spell: Duel
+- Geleerd over in de stad
+	- Taal geassocieerd: Celestial
+	- Damage resistance types: wisselend voor Kami's: niet structureel voor radiant
+	- Curses niet doorgaans
+	- 

@@ -1,0 +1,1 @@
+Nerveuse, maar briljante jonge kenku, Constant peinzende en rondkijkende blik. Visionair, maar ongeorganiseerd. Springt van het ene naar het andere idee.

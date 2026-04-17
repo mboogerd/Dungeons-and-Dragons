@@ -1,0 +1,2 @@
+- Welke magie gebruiken ze?
+- Wat is hun intentie?

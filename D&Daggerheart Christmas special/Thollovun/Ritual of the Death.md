@@ -1,0 +1,9 @@
+Most Fungril treat non-hostile living beings with dignity and respect. They are comparatively reverent for life at all scales. A wounded creature would see Fungril tending to its individually wounded cells with almost the same level of care as they would to the individual as a whole. Death of the individual usually doesn't mean death of its entire composition, and care is taken to find a new purpose for even the smallest part.
+
+Though the Fungril practices are quite alien to most non-Fungril. Neighboring villages are more accustomed to their rituals, and many even leave the dead in their hands. Though Fungril don't generally grieve their own, they have learned to adapt their rituals somewhat to the  needs of those that do.
+
+A typical ritual of passing includes:
+- The embalming: Growth of a fungal cocoon around the body of the deceased. The cocoon can preserve the body for months even if part of the body is exposed. A face exposed this way will relax fully and appear entirely serene.
+- The retrieval: If the cocoon is not yet within Thollovun, it can be made to sprout many spider-like legs, which will solemnly march to Thollovun.
+- The wake: The cocoon is suspended against the stalk of a great shroom. People are allowed to visit the body; If the body is intact enough, and if so desired, it is possible to share a trance with a version of the deceased person. Though the stalk is shared space and communal grieving is promoted, there are limited opportunities for private visits too. All visits are welcomed, though Fungril become restless if they continue after a month, for it makes them feel uneasy to disrupt the organic part of the natural lifecycle.
+- The repurposing: A master of death will touch the cocoon, which will seal off completely, start shrinking and leave the original stalk exposed as if nothing was there previously. Any and all nutrients will then be on their way through the stalk to wherever they need to be.

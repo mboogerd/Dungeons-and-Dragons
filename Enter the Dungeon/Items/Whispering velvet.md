@@ -1,0 +1,4 @@
+---
+tags: item
+---
+Geluidsabsorberend zijde.

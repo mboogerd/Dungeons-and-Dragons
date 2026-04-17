@@ -1,0 +1,74 @@
+Name: Ghum - Pronunciation Goomm
+Class / Subclass: Hedge Witch
+Ancestry: Fungril
+Community: Underborne
+
+# Version A
+**Background**
+Ghum was born on the quiet edge of **Thollovun**, the vast underground city grown from Chardalyn and mycelium. From childhood he wandered beyond the guarded gates, drawn to the blind tunnels where light fades and the living stone breathes. There he learned the moods of the cavern: the scent of a waking mold, the tremor of a burrowing beast, the faint taste of new minerals in the air. Where most Fungril found safety in the inner rings, Ghum found purpose in the wild margins.
+
+**Role in the City**
+Ghum is a **witch**, part gatherer and part sentinel. He harvests rare spores and minerals that refuse cultivation, and he bends his territory into a living barrier of dread — a maze of carnivorous fungi, spore clouds, and half-tamed creatures. His work keeps intruders at bay and warns Thollovun of dangers long before they reach the defended roads. Alchemists depend on the strange ingredients he brings back; the Council of Hyphae depends on the silence he keeps at the borders.
+
+**Character**
+Calm and deliberate, Ghum speaks in the slow rhythms of stone and growth. He values experiment over theory, trusting the cavern itself to reveal truths. To neighbors he is both neighbor and omen — respected for his service, watched for the strangeness that clings to him. Ghum feels no insult in their wary respect; he prefers solitude and the company of the dark. Yet he is fiercely loyal to the Bloom that raised him, and the city’s pulse still calls him home.
+
+**Story Seed**
+This is the story of a watcher who has always served unseen, shaping fear into protection. But new currents stir in the deep tunnels — whispers the Nexus cannot interpret. As the blind corners of Thollovun grow restless, Ghum must decide whether to remain the silent guardian or to step fully into the city he has only ever guarded from without.
+# Version B
+**Background**:
+Ghum was born in the underground settlement of **Thollovun**, where the hidden web of fungi runs deepest and the chorus of voices is strongest. Like all Fungril, they were not raised by parents but by the network itself, their sense of self woven from the whispers of roots and spores. From the first, they knew the world as a shared breath, every voice part of a single hum beneath the soil. Yet even in Thollovun, the Chardalyn veins glowed sickly, and the chorus grew unsteady. Where most Fungril thrive for centuries, Ghum’s tether to the web flickered too soon. Their body faltered, their spirit slipped loose. They became ghostlike before their time.
+
+**Role in the Community**:
+Among their people, Ghum was a witch — one who listened not only to the roots but also to the echoes between worlds. They carried a crooked staff sprouting with caps and cords, and through it channeled both nourishment and dread. In one moment they could knit wounds with spores, in the next they could strangle intruders with cords of hyphae. They were a bridge: between soil and sky, between life and afterlife, between the comfort of _We_ and the danger of _I._
+
+**Character**:
+Ghum is gentle but unsettling. Their voice is a chorus of many, vibrating from the gills of their cap. They speak in “we” as often as “I,” shifting between hive-mind certainty and the tentative spark of individuality. They find joy in simple communion — tending moss, listening to the whisper of roots — yet they are troubled by a private obsession: _What does it mean to be one?_ The chorus tells them unity is sacred. Yet their own ghost-born existence insists that separation is possible — perhaps even necessary.
+
+**Story Seed**:
+This is the story of a child of the web, raised to be many, who has begun to discover the peril and promise of being one. Ghum has always been the chorus, echoing what was whispered through the roots. But as their body flickers, as ghost and spirit threaten to tear them away, the chorus begins to fade. In time, they will face the moment when no voice answers back — and they must decide what it means to be Ghum, alone.
+
+# Version C
+**Background**:
+Ghum was not born so much as grown. In the damp hollow of an ancient tree, spores settled and threads of mycelium wove themselves into a body. Seasons passed, and the cluster of mushrooms learned to move, to listen, to mimic the expressions of the creatures who wandered too close. The forest became both cradle and teacher, its decay feeding him, its whispers guiding him. He has no memory of a childhood — only the endless rhythm of sprouting, withering, and sprouting again.
+
+**Role in the Clan**:
+Among the hidden circles of forest dwellers, Ghum is something between spirit and sage. He carries a crooked staff alive with fungi, ornaments of bone and lichen swaying with each staggered step. When his people gather, he is the one who calls on the spores, whose drifting clouds reveal truths, whose ghostly form slips between this world and the next. Some call him a witch, others a guardian, but to those who know him he is simply Ghum: the one who communes with what lingers in rot and shadow.
+
+**Character**:
+Ghum is unsettling but gentle, his presence like the silence after rain. He speaks in a muffled chorus, as if many voices try to harmonize at once, yet his words carry patience and care. Though he has no true face, his shifting “emojis” of caps tilt into smiles and laughter more often than sorrow. Still, there is a flicker of unease in him. With each reassembly of his spores, he is never quite the same as before. He wonders whether he is one being, or many pretending to be one — and what might happen if he ever drifts too far apart.
+
+**Story Seed**:
+This is the story of a creature born from the soil, who has only ever known the damp comfort of the forest. In time, he will be called beyond it — into places where stone and fire replace loam and rain. There, he must discover whether his voice is only an echo of the woods, or whether he can sing a song of his own in the wide and haunted world.
+
+# Merge
+
+## Background
+Ghum was born on the quiet edge of **Thollovun**, the vast underground city grown from Chardalyn and mycelium. Like all Fungril, his sense of self was shaped less by parents than by the living network itself — the hidden web of fungi that hums beneath the stone, each voice part of a greater chorus. From childhood, he wandered beyond the guarded gates, drawn to the blind tunnels where light fades and the cavern breathes. There he learned the moods of the deep: the scent of a waking mold, the tremor of a burrowing beast, the faint taste of new minerals in the air. Where most Fungril found safety in the inner rings, Ghum found purpose in the wild margins, listening to the whispers of root and stone as though they were kin.
+## Role in the community
+Ghum is a **witch**, part gatherer and part sentinel. He harvests rare spores and minerals that refuse cultivation, and he shapes his territory into a living barrier — a shifting maze of fungi, drifting clouds, and half-tamed creatures. His work keeps intruders at bay and warns Thollovun of dangers long before they reach the defended roads. Alchemists depend on the strange ingredients he brings back; the Council of Hyphae depends on the silence he keeps at the borders. Yet Ghum is more than a warden of shadows. With his crooked staff sprouting caps and cords, he can just as easily knit wounds with spores as he can strangle threats with hyphae. To his people, he is a bridge — between soil and sky, between the comfort of _We_ and the danger of _I._
+## Character
+Calm and deliberate, Ghum speaks in the slow rhythms of stone and growth. His voice carries the faint harmony of many, a muffled chorus that slips between _we_ and _I._ To some, his presence is unsettling — like the silence after rain — yet his patience and quiet care soften the unease. Neighbors respect him for his service, though they watch him too, wary of the strangeness that clings to him. Ghum feels no insult in their distant regard; he prefers solitude, tending moss and listening to the whispers of roots. Still, a private question troubles him: _what does it mean to be one?_ The Bloom tells him unity is sacred, but the cavern’s pulse stirs in him a restless spark of individuality. For all his strangeness, he is fiercely loyal to the Bloom that raised him, and the city’s hum still calls him home.
+
+## Story Seed
+This is the story of a watcher who has always served unseen, shaping fear into protection at the edge of Thollovun. Raised in the chorus of the Bloom, Ghum has known himself as part of _We,_ never fully apart. But new currents stir in the deep tunnels, and the city he has guarded from without now calls him within. For the first time, Ghum must decide what it means to step forward not as the chorus, but as _I_ — and whether he can carry both voices into the wide and haunted world beyond.
+
+# Full version
+## Background
+Ghum was born on the quiet edge of Thollovun, the vast underground city grown from Chardalyn and mycelium. Like all Fungril, his sense of self was shaped less by parents than by the living network itself — the hidden web of fungi that hums beneath the stone, each voice part of a greater chorus. From childhood, he wandered beyond the guarded gates, drawn to the blind tunnels where light fades and the cavern breathes. There he learned the moods of the deep: the scent of a waking mold, the tremor of a burrowing beast, the faint taste of new minerals in the air. Even then, he could sense the fractures in the chorus — the tremors left by Chardalyn torn from the earth, the whispers of fungi that no longer thrived. Where most Fungril found safety in the inner rings, Ghum found purpose in the wild margins, listening to the whispers of root and stone as though they were kin.
+## Role in the Community
+Ghum is a witch, part gatherer and part sentinel. He harvests rare spores and minerals that refuse cultivation, and he shapes his territory into a living barrier — a shifting maze of fungi, drifting clouds, and half-tamed creatures. His work keeps intruders at bay and warns Thollovun of dangers long before they reach the defended roads. Alchemists depend on the strange ingredients he brings back; the Council of Hyphae depends on the silence he keeps at the borders. Yet Ghum is more than a warden of shadows. With his crooked staff sprouting caps and cords, he can just as easily knit wounds with spores as he can strangle threats with hyphae. The alchemists whisper about the unwholesome spores he cultivates, yet they rely on his findings; the Council trusts the dread he sows at the margins, even if they would rather not see how it is done. To his people, he is a bridge — between soil and sky, between the comfort of We and the danger of I.
+## Character
+Calm and deliberate, Ghum speaks in the slow rhythms of stone and growth. His voice carries the faint harmony of many, a muffled chorus that slips between we and I. To some, his presence is unsettling — like the silence after rain — yet his patience and quiet care soften the unease. Neighbors respect him for his service, though they watch him too, wary of the strangeness that clings to him. Ghum feels no insult in their distant regard; he prefers solitude, tending moss and listening to the whispers of roots. Still, a private question troubles him: what does it mean to be one? The Bloom tells him unity is sacred, but the cavern’s pulse stirs in him a restless spark of individuality. The mystery of the Skyfolk gnaws at him as well — their severed cities drifting far from the chorus. Are they what it means to be I? If so, is I strength, or is it ruin? For all his strangeness, he is fiercely loyal to the Bloom that raised him, and the city’s hum still calls him home.
+## Story Seed
+This is the story of a watcher who has always served unseen, shaping fear into protection at the edge of Thollovun. Raised in the chorus of the Bloom, Ghum has known himself as part of We, never fully apart. But as the chorus falters under the strain of collapsing ecologies and the scars of Chardalyn excavation, the city he has guarded from without now calls him within. For the first time, Ghum must decide what it means to step forward not as the chorus, but as I — and whether that fragile spark can help save the Bloom, or doom it.
+
+# Final version
+### **Background**
+Ghum was born on the quiet edge of **Thollovun**, the vast underground city grown from Chardalyn and mycelium. Like all Fungril, his sense of self was shaped not by parents but by the fungal chorus beneath the stone. Yet where most found safety in the inner rings, Ghum was drawn to the blind tunnels where light fades and the cavern breathes. There he learned to read the moods of the deep — the scent of a waking mold, the tremor of a burrowing beast, the taste of new minerals in the air. Even then, he could feel the fractures left by Chardalyn torn from the earth, the chorus growing thinner with each wound.
+### **Role in the Community**
+As a **witch**, Ghum is both gatherer and sentinel. He harvests what refuses cultivation and shapes his territory into a living barrier — a shifting maze of fungi, spore-clouds, and half-tamed creatures. His vigilance warns Thollovun of danger before it reaches the guarded roads, and his findings feed the alchemists’ craft. Yet the same spores that protect the Bloom make others wary: witches work in shadows, and their experiments are whispered about even as their results are prized. Ghum accepts this distance; he has always stood with one foot in the Bloom and one in the wild. Ghum acts a bridge — between soil and sky, between the comfort of _We_ and the danger of _I._
+### **Character**
+Calm and deliberate, Ghum speaks in the slow rhythms of stone and growth. His voice carries the faint harmony of many, slipping between _we_ and _I._ To some, his presence is unsettling — like the silence after rain — yet his patience and quiet care soften the unease. Neighbors respect him for his service, though they keep their distance. Ghum prefers it so; solitude gives him time to tend moss, listen to roots, and turn over the question that troubles him most: _what does it mean to be one?_ The Skyfolk’s severed cities gnaw at that question — drifting far from the chorus, they embody individuality’s promise and its ruin.
+### **Story Seed**
+This is the story of a watcher who has always served unseen, shaping fear into protection at the edge of Thollovun. But as the chorus falters under the strain of ecological collapse, the city he has guarded from without now calls him within. For the first time, Ghum must decide whether to remain the silent guardian of _We,_ or to step forward as _I_ — and discover whether that fragile spark can save the Bloom, or doom it.

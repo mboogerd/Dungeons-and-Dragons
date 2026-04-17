@@ -1,0 +1,152 @@
+# Day 1
+- Ruimteschip nadert planeet. Een blauwe, aardse planeet met zilvergrijze band van mist
+- In de cockpit, twee dragonborn in de pilotenstoelen. Blauw (Kapitein) en koper. Zijkant een eladrin elf (Stella). Een dwerg onderuitgezakt.
+- Achter de werkende humanoids, nog 3 mensen: **Hemal**, **Dea**, **Ella**
+- Dea: spelend met een kaartendek.
+- Ella:
+	- Elven humanoid, vrouw
+	- Catsuit achtig diep-paars uniform, zilveren accenten
+	- Op haar borst : *twee gestyleerde handen op elkaar*: logo vaa The Equilizers
+	- Opgestoken blonde haar
+	- Zilveren, licht twinkelende ogen.
+- Voorspelling van Dea kaartlegging - nieuw team lid van the equilizers! Uitgekiend dat ergens in the shadowfell een nieuw lid!
+- Heuvel met een massa mensen die op die heuvel proberen te komen. In het midden zie je een figuur staan, het nieuwe team lid. Dea: That is the knight of swords.
+- De figuur is een elf-achtige, met hood, wit haar, lijkbleek gezicht en lichtrode wangen. Draagt een simpel zwart leren armor. Hij staat rustig de boel te observeren, en zich geen zorgen te maken. Lichtgrijze ogen met een klein rood randje. Hij draagt een ketting met een opvallend grote obsidian steen.
+- We landen op zo'n 300 voet van de heuvel.
+	- Ella roust door de massa met een zwaard in haar rechter hand, en vuur stralen uit haar linker
+	- Dea ziet een mindflayer, en de elf (Kaelthas) verstijft
+	- Dea trekt een tale of the mindbender
+- Crew
+	- Captain Toskrot: Blauwe dragonborn
+	- Copilot Straska: Koperen dragonborn
+	- Mechanic Salha: Vrouwelijke Eladrin
+	- Gunner Armond: Dwarf
+- Missie van Graybolt.
+	- Ella: Een deel van de codex ligt besloten in deze bibliotheek. Een groep is daar achter gekomen. De bieb is verscholen in een gefortificeerd klooster. We hebben jou voorutgestuurd. Voorkom dat de codex gestolen word.
+	- Codex: Beschrijving hoe de cosmic engine werkt. De Cosmic engine houd het universum aan elkaar.
+	- Hij ziet het klooster tussen landerijen. Omcirkeld door honderden belagers met slechts enkele tientallen verdedigers.
+	- Komt aan in duikvlucht
+	- Schiet een pijl die zich recursief dupliceert tot een massa pijlen over een gebied van 40ft. radius; schakelt 1 groep voor 80% uit
+	- We zien 1 groep met een giant. Kaelthas stuurt die richting om, over de groep die tegen de muur aan het bestormen zijn, terwijl hij nog een replicating arrow afschiet op de groep met de giant.
+	- De groepen beginnen nu te focusen op Kaelthas, hij beweegt zich richting de bibliotheek, maar schiet nog twee pijlen in de giant. Een gaat richting het oog, en de tweede dodelijke pijl gaat door de luchtpijp. Hij valt om en plet twee van zijn minions en zijn groep begint te vluchten.
+	- De andere groepen staan er nu aarzelend bij, en stoppen met de aanval.
+	- Kaelthas vliegt de bibliotheek in, in officieel uniform. Haalt de codex er uit en vliegt er met 240ft/round weg.
+- Ons schip: Swiftwing
+- Inquisitor introductie
+	- Half wakker, muffe lucht.
+	- Vastgebonden aan een stoel
+	- Man van middelbare leeftijd zit op een stoel hout te bewerken
+	- Inquisitor voelt zich poisoned
+	- "Ze is wakker"
+	- Een draconische cleric-achtige jonge vent komt haar cel binnenlopen (Regimund)
+	- Op dat moment herinnert ze zich hoe ze daar is binnengekomen.
+		- Ze was gestuurd om de cult te onderzoeken die blijkbaar wist van de codex 
+		- Ze had zichzelf gevangen laten nemen om te kunnen infiltreren
+	- "We hebben wat vragen voor je"... "_Ik_ stel hier de vragen"
+	- Hij cast een spell (detect thoughts), maar ze verzet zich tegen het effect
+	- Zij cast een zone of truth en hij faalt
+	- Hij cast een spell, maar ze verzet zich nogmaals tegen het effect
+	- Zij cast dominate person op hem en dwingt hem om de andere guard naar buiten te sturen.
+	- Ze dwingt hem om te vertellen hoe ze aan hun info komen. Hij verteld over een contactpersoon die ze hebben in het engineer corps van de nexus. Hij heeft altijd zwaar vermomd contact met zijn baas, die gesneuveld is in de laatste veldslag.
+	- "Wie was de opdrachtgever?". "Mijn baas, die dood is".
+	- "Wie was jouw baas?". "Sunia".
+	- "Wie is er nog beter op de hoogte?". "Onze contactpersoon, de engineer".
+	- "Wat is het doel van de organisatie met de codex?". "De codex is een schat om de wereld naar onze hand te zetten, in plaats van de draken"... "Het is eigenlijk wel vreemd dat de engineers daar aan meewerken".
+	- "Wat zou je dan veranderen?". "Ik zou in mijn eigen vliegende stad willen wonen!"
+	- "Staan er op dit moment nog aanslagen geplanned?". "Eeh.. nee? Ik geloof wel dat we binnenkort naar Netheril moesten. We moesten al onze equipment inpakken en die kant op van de engineer."
+	- "Enkele jaren is er een Nexslag geweest. Weet jij daar iets van?". "Wat is een Nexslag? Wat is een Nexus?"
+	- Ze gaan samen naar buiten, om "een hapje te eten"
+- De terugreis naar de Nexus
+	- Swiftwing : Nautilus class ship v3
+	- Load bay => Engine Room => Achthoekige ruimte met wenteltrap naar een hogere verdieping. In de ruimte staan pilaren met draconische tekenen, een teleport circle. Fungeert ook als sparring-ruimte. Voorin is een cockpit met ruimte voor vier personen en jumpsuits.
+	- Planeshift werkt als een teleport langs astral lay lines.
+	- We komen aan bij de hub voor de Nexus; Ella: "Suit up, we gaan naar buiten." (even oefenen). 
+- In de Nexus
+	- Mess Hall
+		- Meisje in zilveren gewaad begint te zingen. Intens groene ogen. [[Zuster Eva|Avnana’el]] - Een echte draak
+		- Gaat op Ella af (die zwaait) en ze geeft haar een knuffel. 
+- Missie
+	- Wat we weten is dat de cult supplies brengt naar [[Eileanar]] (een stad in [[Netheril]])
+	- Ongewone energiestroom naar [[Netheril]]
+	- Reading voor Ella
+		- The Fool - Het is in het diepe springen
+			- The Emperor - We gaan diep moeten gaan
+		- The Wheel of Fortune (Pauw en Slang in gevecht, nog een slang die zijn eigen staart eet) - Fortune favour the bold.
+		- Strength - Wat hebben we nog nodig
+			- Betekenis: Hitpoint Maximum 
+	- Poging om te verbinden met de Nexus
+		- Nee
+	- Scrying mislukt door een barriere
+	- Vliegen naar de stad. 1 hop over de lay lines
+	- Roze mist hangt rond de planeet
+- In the Skydocks van [[Eileanar]]
+	- Gezette vrouw van middel bare leeftijd, kortgeknipt haar, blauwe sherp om haar middel. Assistent havenmeester Julia. Ze herkent de naam van ons schip
+	- Aurelia werkt meestal in het Arcane Court of de werkplaats van de [[Mythalar]]
+	- Twee weken geleden was er ook een schip: De Nautilus V (kapitein: Ôtousi). Magiers met speciale magische uitrusting. Hadden daar toestemming. Ze hadden twee vreemd uitziende metalen dozen waar ze niet in mocht kijken. Ze waren te tillen door 1 persoon, en er kwam licht uit, wat lijkt op de magie van hier. Ze hadden special approval van Mythanist [[Zena]].
+		- Engineer Squad 5, Principal Cosmic Engine Experts:
+			- Rondi (female blue dragonborn, elementalist)  
+			- Edgain (male red dragonborn, elementalist)
+			- Aenah (female platinum dragonborn, divinist)
+			- Dakti (female amethyst dragonborn, mentalist)
+			- Voroltod (male sapphire dragonborn, mentalist)
+		- Dragon types
+			- Sardiors essentie is opgegaan in de tweede wereld
+			- Alle kleuren draken werken mee in onze (Bahamuths) organisatie
+			- Laatste honderden jaren zijn er wel incidenten. Onenigheid in de drakenraad. Dat correleert enigszins, maar onvolledig met de draken types.
+			- Tiamath lijkt achter de schermen onenigheid te instigaten
+		- Legend lore voor de [[Mythalar]]
+			- Ôtousi amethyst dragon met een amethyst greatworm.; de greatworm instrueert Ôtousi over de operatie en het belang van balans in de cosmic engine.
+			- Ôtousi in de [[Nexus]] vakantie houdend, niet op missie zijn. Dea: "Imposter"
+	- De guard: Amethyst dragonborn die hij tegenhoudt en hij krijgt stokslagen van zijn superior omdat hij hun niet gewaarschuwd had voor de aanwezigheid.
+	- Guard Nigel brengt ons naar binnen
+	- We gaan richting de core. 
+	- Core: Messingstructuur met grote erlenmeyer. Nigel wijst ons op [[Zena]].
+	- Graybolt checkt de energy logs. Vijf dagen geleden begon er een significante wijziging en iedere dag een beetje meer.
+	- Diagram
+		- **Stasis chamber**: Manieren om de statis chamber te openen in geval van nood. Welke authorization je nodig hebt. Aantal posities en ranks van het dragon engineer corps.
+		- **Extra mythalar core**: Tetrahedron gemaakt van een bijzonder soort kristal ([[Chardalyn]]), ziet er uit als de sluitsteen.
+	- Syrus was eerder betrokken bij een complot om de cosmic engine te bezweren. Hij is opvallend vaak op inspectiereis geweest. Hij gaf een cadeautje van vakantie aan Otuisi. Afnanao is zijn kleindochter.
+- End of Battle
+	- Cyrus veranderd in rode draak
+	- Ella bevecht hem, samen met resterende Equaliser Engineers
+	- Wij gaan door de portal (Gate)
+		- We voelen wat we voelden als draak door de ley lines
+		- Twee stromen
+			- Material Plane energy voorwaarts
+			- Chaos stroom terug
+			- Snelheid 10 + 2*(hoogste mental ability stat)
+		- We bewegen tussen planes door een bypass
+		- We komen via de bypass aan bij de elemental harmonizer in the plane of fire
+		- Daar zien we nog een bypass, waarschijnlijk naar de primal collector
+		- We zien chaotische stormen met paarse bliksem op ons af snellen.
+
+# Day 2
+- Syrus bleek in league te zijn met Tiamath
+- Designs voor een ley line bypass
+- Beeld: Repurpose energy
+- Plane of fire na Portal (meer dan een minuut. 1KM boven de grond => Feather fall in suit. One charge remaining)
+	- Boven ons een elemental harmonizer => Fire to matter
+	- Bypass direct geinstalleerd
+	- Zwarte, paars/blauwe storm
+- Uit de storm ontstaat een vorm, iets fysieks. Rotsen, met poten, slagtanden en staart, vloeien met magma, grote rug met twee bergkammen. Wit/gele ogen, ijzige slachtanden en klauwen. Een Tarrasque! Battle
+	-  Geleerd
+		- Poison immunity
+		- Cold en lightning damage werkt
+		- History check: Lijkt op schepping ten tijde van eerste wereld. Is verbonden met een trechter van storm.
+		- Geen frightened
+	- Turn 1
+		- Plan
+			- Hexblade curse
+			- Phantasmal Killer
+		- ~~Grappled~~
+	- Turn 2
+		- Plan: (a) Synaptic static (ba) restore spell slot
+	- Turn 3
+		- Plan: (ba) Staggering Smite (a) 2 x Blood spear attack + Bloodthirsty strikes
+		- or, (a) Disengage and (ba) Quickened enervation
+		- or, (ba) potion, Enervation
+	- Turn 4
+		- (a) 2x Blood Spear Attack + Bloodthirsty strikes (ba) potion | Steal Life | sorcery point | Life Transference ? OR
+		- Dragon + Scintillating breath
+		- Nope: Death save
+- Generaal Bharkath

@@ -1,0 +1,1 @@
+- Edradius has been extradited to Baldur's Gate as neutral location for a tribunal, with representation from both Luskan and Neonetheril attending

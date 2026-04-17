@@ -1,0 +1,1 @@
+Oude godin van de magie voordat de weave werd onderbroken. Ze heeft zichzelf opgeofferd om de weave te redden.
