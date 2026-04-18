@@ -39,10 +39,14 @@
             "id": "6b9afa56052bf95b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Enter the Dungeon/People/Gadget.md",
+                "bFile": "Enter the Dungeon/People/Gadget.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Gadget  (Working Tree)"
             }
           }
         ],
@@ -218,6 +222,13 @@
   "lastOpenFiles": [
     "Enter the Dungeon/Sessions/Season 7/S07E04.md",
     "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+    "Enter the Dungeon/People/Zelal.md",
+    "Enter the Dungeon/People/Takfarinas.md",
+    "Enter the Dungeon/People/Lyra Palana.md",
+    "Enter the Dungeon/People/Gadget.md",
+    "Lyra.md",
+    "Enter the Dungeon/People/Torden.md",
+    "Enter the Dungeon/People/Zeno.md",
     "Enter the Dungeon/Deities/Aros.md",
     "Enter the Dungeon/Deities/Zoros.md",
     "Enter the Dungeon/Locations/Faerun/Cormyr/Arabelle.md",
@@ -235,13 +246,6 @@
     "Enter the Dungeon/People/Elena Voronina.md",
     "Enter the Dungeon/Locations/Faerun/Silverymoon/Silverymoon.md",
     "Enter the Dungeon/People/Lysa Fenmark.md",
-    "Enter the Dungeon/People/Garrick Thorne.md",
-    "Enter the Dungeon/People/Serafim.md",
-    "Enter the Dungeon/People/Arkady Mirov Karsin.md",
-    "Enter the Dungeon/Sessions/Sessions.md",
-    "Enter the Dungeon/Sessions/Season 6/Season 6.md",
-    "Enter the Dungeon/Sessions/Season 5/Season 5.md",
-    "Enter the Dungeon/Sessions/Season 4/Season 4.md",
     "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
     "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
     "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",

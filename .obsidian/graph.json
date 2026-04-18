@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#player",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
       "query": "tag:#person  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5431473
       }
     },
     {
       "query": "tag:#item  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14570208
       }
     },
     {
       "query": "tag:#organization  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14718802
       }
     },
     {

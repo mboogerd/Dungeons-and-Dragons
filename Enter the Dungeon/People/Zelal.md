@@ -1,3 +1,5 @@
 ---
-tags: person
+tags:
+  - person
+  - player
 ---

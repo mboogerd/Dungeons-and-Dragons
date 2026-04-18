@@ -1,5 +1,7 @@
 ---
-tags: person
+tags:
+  - person
+  - player
 ---
 # Starting appearance
 Torden is a dwarf of typical height and a stalky demeanor. He has hazel/caramel-toned skin and black hair tied in a long thick braid. Many loose strands of that hair peak outwards as though electrically charged. His icy blue eyes covered by black bushy eyebrows are not even his most prominent feature. Torden carries multiple streaks of intricate lightning scarring. Some of these are all but hidden behind arm wraps and his scapular, though still peaking out at the tips of his bare shoulders. The most visible of these is the one that travels up along his throat and fades towards the beard line. Torden carries a mustache, also tied in braids, but the scars prevent the usual thick dwarven beard from growing.
@@ -35,3 +37,20 @@ Otherwise, he seems kind, good-natured, and light-hearted, at least when facing 
 > Peeking out from beneath his beard and armor are peculiar, jagged scars that meander across his throat and shoulders. Their pattern is intriguingly chaotic, his attire possibly leaving parts unseen.
 > 
 > Among companions, Torden radiates a warm joviality, his laughter booming heartily, akin to a gentle roll of thunder echoing through the hills. Yet, his gaze holds a certain intensity, a silent strength that can unsettle those unfamiliar with such depth. And while his outward visage may reveal a congenial dwarf with intriguing traces of a storied past, his eyes seem to promise an untold tale, far removed from the ordinary.
+
+## Campaign Summary
+- Torden's campaign arc is anchored in his storm scars, divine markings, and growing connection to [[Talos]], [[Aros]], and [[Zoros]].
+- Season 4 turns that mystery into a major storyline through visions, old clues in [[Waterdeep]], and the teachings of [[Panath Dawnfist]] in [[Icewind Dale]].
+- The northern lore reframes storm power for him: [[Zoros]] as destructive force pursued for domination, [[Aros]] as destruction rightly channeled for protection.
+- In Season 5 his dreams intensify, his markings evolve, and the tension between those storm-aspects becomes more personal and harder to ignore.
+- In Seasons 6 and 7, Torden increasingly channels overt divine storm power in major fights, while also becoming a political and spiritual liability in spaces shaped by [[Zoros]].
+- His current direction is no longer only "what power do I have", but "what exactly chose me, and what responsibility comes with that choice".
+
+## Current Themes
+- Whether his storm-marked path belongs to [[Talos]], [[Aros]], [[Zoros]], or some contested overlap between them.
+- Whether the force that chose him is also responsible for the destruction of his parents.
+- Destructive power as burden, tool, and possible calling.
+- The need to distinguish true storm-divinity from corrupted or weaponized imitations.
+
+## Party Role
+Torden is CSI's divine anchor and frontline storm-cleric, combining protection, battlefield control, and one of the campaign's deepest mythic mysteries.
