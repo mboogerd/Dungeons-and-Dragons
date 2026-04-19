@@ -1,3 +1,7 @@
+---
+aliases: Dorn
+---
+
 Dorn Velak is de muscle van [[Maelis]]' cell in [[Suzail]].
 
 ## Achtergrond

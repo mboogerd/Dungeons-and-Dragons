@@ -1,5 +1,5 @@
 ---
-alias: Lyra
+aliases: Lyra
 tags:
   - person
   - player

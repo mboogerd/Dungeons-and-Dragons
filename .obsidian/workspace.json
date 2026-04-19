@@ -13,12 +13,180 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enter the Dungeon/Sessions/Season 7/S07E03.md",
+                "file": "Enter the Dungeon/Quests/Cormyr/Cormyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S07E03"
+              "title": "Cormyr"
+            }
+          },
+          {
+            "id": "ad54deadcd69bba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Sessions/Season 7/S07E04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S07E04"
+            }
+          },
+          {
+            "id": "5b56a1a53b6bec80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Dirk van de Berg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dirk van de Berg"
+            }
+          },
+          {
+            "id": "2262a544544083ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Mikhail Dorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mikhail Dorn"
+            }
+          },
+          {
+            "id": "4c6e6c7ae073d9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Quests/Cormyr/Cormyr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cormyr"
+            }
+          },
+          {
+            "id": "b68ff2cd03be0b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/De Gebroken Hamer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Gebroken Hamer"
+            }
+          },
+          {
+            "id": "ac67dce9771eadd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Professor Emeric Koldov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Professor Emeric Koldov"
+            }
+          },
+          {
+            "id": "1657268834e8dac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Lord Haldrim Crownsilver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lord Haldrim Crownsilver"
+            }
+          },
+          {
+            "id": "36bc4579cf401ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Quests/Cormyr/Cormyr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cormyr"
+            }
+          },
+          {
+            "id": "36338fc60ed8ca5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Silra Moonfan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silra Moonfan"
+            }
+          },
+          {
+            "id": "e73fc14a69f01676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/People/Bram Veld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bram Veld"
+            }
+          },
+          {
+            "id": "904582ba873ce72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Blauwe kompas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blauwe kompas"
+            }
+          },
+          {
+            "id": "3a24898f8f825221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enter the Dungeon/Organisations/De Rathirim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Rathirim"
             }
           },
           {
@@ -39,18 +207,18 @@
             "id": "6b9afa56052bf95b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Enter the Dungeon/People/Gadget.md",
-                "bFile": "Enter the Dungeon/People/Gadget.md",
-                "aRef": ""
+                "file": "Enter the Dungeon/Deities/Aros.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Gadget  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Aros"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "team",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +271,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,6 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enter the Dungeon/Sessions/Season 7/S07E04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for S07E04"
             }
           },
           {
@@ -218,34 +388,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9afa56052bf95b",
+  "active": "ad54deadcd69bba1",
   "lastOpenFiles": [
-    "Enter the Dungeon/Sessions/Season 7/S07E04.md",
-    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
-    "Enter the Dungeon/People/Zelal.md",
-    "Enter the Dungeon/People/Takfarinas.md",
-    "Enter the Dungeon/People/Lyra Palana.md",
-    "Enter the Dungeon/People/Gadget.md",
-    "Lyra.md",
-    "Enter the Dungeon/People/Torden.md",
-    "Enter the Dungeon/People/Zeno.md",
-    "Enter the Dungeon/Deities/Aros.md",
-    "Enter the Dungeon/Deities/Zoros.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Arabelle.md",
+    "Enter the Dungeon/People/Dirk van de Berg.md",
     "Enter the Dungeon/People/Dorn Velak.md",
-    "Enter the Dungeon/People/Silra Moonfan.md",
-    "Enter the Dungeon/People/Retean Coln.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Koninklijke crypte.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Oud Heiligdom.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Ambassade van Neonetheril.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Het huis van zeven vaandels.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/King's Cross Station.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Suzail.md",
+    "Enter the Dungeon/Sessions/Season 7/S07E04.md",
+    "Lyra.md",
+    "Enter the Dungeon/People/Lyra Palana.md",
     "Enter the Dungeon/People/Mikhail Dorn.md",
-    "Enter the Dungeon/People/Gregor Malenkov.md",
-    "Enter the Dungeon/People/Elena Voronina.md",
-    "Enter the Dungeon/Locations/Faerun/Silverymoon/Silverymoon.md",
-    "Enter the Dungeon/People/Lysa Fenmark.md",
+    "Enter the Dungeon/Quests/Cormyr/Cormyr.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/De Gebroken Hamer.md",
+    "Enter the Dungeon/People/Professor Emeric Koldov.md",
+    "Bram.md",
+    "Enter the Dungeon/People/Lord Haldrim Crownsilver.md",
+    "Enter the Dungeon/People/Davven.md",
+    "Enter the Dungeon/People/Silra Moonfan.md",
+    "Enter the Dungeon/People/Bram Veld.md",
+    "Enter the Dungeon/Items/Scars of Thunder.md",
+    "Enter the Dungeon/Organisations/Purple Dragons.md",
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Blauwe kompas.md",
+    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
+    "Enter the Dungeon/Organisations/De Rathirim.md",
+    "Enter the Dungeon/People/Aendril.md",
+    "Enter the Dungeon/Organisations/Cult of Zoros.md",
+    "De Rathirim.md",
+    "Enter the Dungeon/Sessions/Season 7/S07E03.md",
+    "Enter the Dungeon/Deities/Aros.md",
+    "Enter the Dungeon/People/Dia.md",
+    "Enter the Dungeon/AGENTS.md",
     "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
     "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
     "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",

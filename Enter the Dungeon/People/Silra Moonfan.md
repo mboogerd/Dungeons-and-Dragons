@@ -1,3 +1,7 @@
+---
+aliases: Silra
+---
+
 Silra Moonfan is een informant in het netwerk van [[Maelis]] in [[Suzail]].
 
 ## Achtergrond
