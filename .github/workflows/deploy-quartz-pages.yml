@@ -1,0 +1,110 @@
+name: Deploy Obsidian vault with Quartz
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Check out vault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check out Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4
+          path: .quartz
+          fetch-depth: 1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: .quartz/package-lock.json
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Configure Quartz
+        working-directory: .quartz
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          QUARTZ_PAGE_TITLE: ${{ vars.QUARTZ_PAGE_TITLE }}
+          QUARTZ_BASE_URL: ${{ vars.QUARTZ_BASE_URL }}
+        run: |
+          node <<'EOF'
+          const fs = require("node:fs")
+
+          const [owner, repo] = process.env.GITHUB_REPOSITORY.split("/")
+          const fallbackBaseUrl = repo === `${owner}.github.io`
+            ? `${owner}.github.io`
+            : `${owner}.github.io/${repo}`
+
+          const pageTitle = process.env.QUARTZ_PAGE_TITLE || repo.replace(/[-_]+/g, " ")
+          const baseUrl = process.env.QUARTZ_BASE_URL || fallbackBaseUrl
+          const ignorePatterns = [
+            ".git/**",
+            ".github/**",
+            ".obsidian/**",
+            ".quartz/**",
+            "node_modules/**",
+            "**/.DS_Store",
+            "AGENTS.md",
+          ]
+
+          const configPath = "quartz.config.ts"
+          let config = fs.readFileSync(configPath, "utf8")
+
+          config = config.replace(/pageTitle:\s*["'`][^"'`]*["'`]/, `pageTitle: ${JSON.stringify(pageTitle)}`)
+          config = config.replace(/analytics:\s*\{[\s\S]*?\n\s*\},/, "analytics: null,")
+          config = config.replace(/baseUrl:\s*["'`][^"'`]*["'`]/, `baseUrl: ${JSON.stringify(baseUrl)}`)
+          config = config.replace(
+            /ignorePatterns:\s*\[[\s\S]*?\]/,
+            `ignorePatterns: ${JSON.stringify(ignorePatterns)}`,
+          )
+
+          fs.writeFileSync(configPath, config)
+          EOF
+
+      - name: Install Quartz dependencies
+        working-directory: .quartz
+        run: npm ci
+
+      - name: Build Quartz site
+        working-directory: .quartz
+        run: npx quartz build --directory "$GITHUB_WORKSPACE"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
