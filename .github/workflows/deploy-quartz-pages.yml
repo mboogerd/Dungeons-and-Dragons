@@ -43,6 +43,12 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Apply local Quartz overrides
+        run: |
+          if [ -d "$GITHUB_WORKSPACE/quartz" ]; then
+            cp -R "$GITHUB_WORKSPACE/quartz/." "$GITHUB_WORKSPACE/.quartz/"
+          fi
+
       - name: Configure Quartz
         working-directory: .quartz
         env:
@@ -75,6 +81,7 @@ jobs:
 
           config = config.replace(/pageTitle:\s*["'`][^"'`]*["'`]/, `pageTitle: ${JSON.stringify(pageTitle)}`)
           config = config.replace(/analytics:\s*\{[\s\S]*?\n\s*\},/, "analytics: null,")
+          config = config.replace(/analytics:\s*null,/, "analytics: null,")
           config = config.replace(/baseUrl:\s*["'`][^"'`]*["'`]/, `baseUrl: ${JSON.stringify(baseUrl)}`)
           config = config.replace(
             /ignorePatterns:\s*\[[\s\S]*?\]/,
@@ -83,12 +90,6 @@ jobs:
 
           fs.writeFileSync(configPath, config)
           EOF
-
-      - name: Apply local Quartz overrides
-        run: |
-          if [ -d "$GITHUB_WORKSPACE/quartz" ]; then
-            cp -R "$GITHUB_WORKSPACE/quartz/." "$GITHUB_WORKSPACE/.quartz/"
-          fi
 
       - name: Install Quartz dependencies
         working-directory: .quartz
