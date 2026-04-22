@@ -9,8 +9,16 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "example.com",
-    ignorePatterns: [".obsidian"],
+    baseUrl: "mboogerd.github.io/Dungeons-and-Dragons",
+    ignorePatterns: [
+      ".git/**",
+      ".github/**",
+      ".obsidian/**",
+      ".quartz/**",
+      "node_modules/**",
+      "**/.DS_Store",
+      "AGENTS.md",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
