@@ -84,6 +84,12 @@ jobs:
           fs.writeFileSync(configPath, config)
           EOF
 
+      - name: Apply local Quartz overrides
+        run: |
+          if [ -d "$GITHUB_WORKSPACE/quartz" ]; then
+            cp -R "$GITHUB_WORKSPACE/quartz/." "$GITHUB_WORKSPACE/.quartz/"
+          fi
+
       - name: Install Quartz dependencies
         working-directory: .quartz
         run: npm ci
