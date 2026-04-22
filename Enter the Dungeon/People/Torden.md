@@ -14,9 +14,19 @@ Apparel:
 - Black leather boots
 - Simple arm wraps
 
-# Current appearance
+# Appearance
+
+| Torden Young<br>![[Torden Young.jpg]]                                      | ![[Torden - Cleric of Dumathoin - Young.jpg]]       |
+| -------------------------------------------------------------------------- | --------------------------------------------------- |
+| ![[Talos - Preconnection.jpg]]                                             | ![[Torden - Looking into the eye.jpg]]              |
+| ![[Torden - prestrike.png]]                                                | ![[Talos - Connection.jpg]]                         |
+| ![[Torden - Impact.png]]                                                   | ![[Talos - Torden Struck.jpg]]                      |
+| ![[Torden Rebuilt.jpg]]                                                    | Torden Lost<br>![[Torden Trauma.jpg]]               |
+| Regular<br>![[Torden bare chested.jpg]]                                    | Activated<br>![[Torden bare chested activated.jpg]] |
+|                                                                            |                                                     |
+| With [[Lyra Palana\|Lyra]]'s clothes (Winter solstice)<br>![[Torden.jpeg]] | ![[Torden - Lyra's Winter Solstice clothes.jpg]]    |
+
 ## Winter solstice
-![[Torden.jpeg]]
 
 ## Description
 At first sight, Torden is a dwarf you might glance over, due to the height and a stalky demeanor typical of dwarfs. His has hazel/caramel-toned skin and black hair tied up in a bun shows him to be a hill dwarf. He has a bristly mustache and a well-kept beard with silky long hairs. His icy blue eyes covered by black bushy eyebrows reveal him to be, most likely, from  beyond the spine of the world.
@@ -27,6 +37,11 @@ The astute observer would notice how Torden's hairs occasionally starts peaking 
 
 Otherwise, he seems kind, good-natured, and light-hearted, at least when facing his friends. But his blue eyes will wander off without exception, and when meeting his gaze as a stranger you're confronted with the overwhelming feeling that this man could be quite ... intense.
 
+# Background
+## Family
+![[Torden Family.jpg]]
+
+Torden has no brothers or sisters, but a loving father ([[Rurik]]) and mother ([[Sannl]]). His father is a a bit of an innovator, managing to farm the barren soil in [[Dwarven Valley]]. His mother owns a brewery and innovates with new flavors.
 ### Chat-GPT
 > At a first glance, you might dismiss Torden as a simple dwarf. His robust figure and modest height suggest an unremarkable background. Yet, the warm, caramel-toned complexion and his black hair, neatly gathered into a bun, speak to his hill dwarf heritage. His face is rugged and framed by a bristly mustache and a well-groomed beard. A pair of icy blue eyes, tucked away beneath thick eyebrows, hint at a lineage rooted in the icy realms beyond the Spine of the World. 
 > 

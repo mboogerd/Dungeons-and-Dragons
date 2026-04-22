@@ -25,14 +25,12 @@
             "id": "ad54deadcd69bba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Enter the Dungeon/Sessions/Season 7/S07E04.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Dwarven Valley.jpg"
               },
-              "icon": "lucide-file",
-              "title": "S07E04"
+              "icon": "lucide-image",
+              "title": "Dwarven Valley"
             }
           },
           {
@@ -195,30 +193,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enter the Dungeon/People/Aendril.md",
+                "file": "Enter the Dungeon/People/Torden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aendril"
+              "title": "Torden"
             }
           },
           {
-            "id": "6b9afa56052bf95b",
+            "id": "1576b41eb4090548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enter the Dungeon/Deities/Aros.md",
+                "file": "Enter the Dungeon/People/Gadget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aros"
+              "title": "Gadget"
+            }
+          },
+          {
+            "id": "4fffecad32ef01d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Shattered Crown/People/Mira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mira"
+            }
+          },
+          {
+            "id": "3de3f29a30ecc499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Shattered Crown/People/Vaelis Nightquill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vaelis Nightquill"
+            }
+          },
+          {
+            "id": "5649141ed1d68fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Shattered Crown/People/Vaelis Nightquill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vaelis Nightquill"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -271,8 +311,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -388,53 +427,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad54deadcd69bba1",
+  "active": "5649141ed1d68fba",
   "lastOpenFiles": [
-    "Enter the Dungeon/People/Dirk van de Berg.md",
-    "Enter the Dungeon/People/Dorn Velak.md",
-    "Enter the Dungeon/Sessions/Season 7/S07E04.md",
-    "Lyra.md",
+    "The Shattered Crown/Prophecy Snippets and Ancient texts.md",
+    "The Shattered Crown/Counsel of the Solstice.md",
+    "The Shattered Crown/People/Mira.md",
+    "The Shattered Crown/People/Vaelis Nightquill.md",
+    "The Shattered Crown/People",
+    "The Shattered Crown/Character Creation.md",
+    "The Shattered Crown/2026-03-27 Operation quiet branch.md",
+    "The Shattered Crown/3. Random Notes.md",
+    "The Shattered Crown/People/Lutho.md",
+    "Images/Lutho.png",
+    "The Shattered Crown/Map.md",
+    "The Shattered Crown/2. The Earth Remnant.md",
+    "The Shattered Crown/1. Vijfde dag van de Verdant Awakening.md",
+    "Het mysterie van Dyn Singh/Het mysterie van Dyn Singh.md",
+    "Images/Winter Solstice Ball/Gadget.jpg",
+    "Enter the Dungeon/People/Gadget.md",
     "Enter the Dungeon/People/Lyra Palana.md",
-    "Enter the Dungeon/People/Mikhail Dorn.md",
-    "Enter the Dungeon/Quests/Cormyr/Cormyr.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/De Gebroken Hamer.md",
-    "Enter the Dungeon/People/Professor Emeric Koldov.md",
-    "Bram.md",
-    "Enter the Dungeon/People/Lord Haldrim Crownsilver.md",
-    "Enter the Dungeon/People/Davven.md",
-    "Enter the Dungeon/People/Silra Moonfan.md",
-    "Enter the Dungeon/People/Bram Veld.md",
-    "Enter the Dungeon/Items/Scars of Thunder.md",
-    "Enter the Dungeon/Organisations/Purple Dragons.md",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail/Blauwe kompas.md",
-    "Enter the Dungeon/Sessions/Season 7/Season 7.md",
-    "Enter the Dungeon/Organisations/De Rathirim.md",
+    "Enter the Dungeon/People/Zeno.md",
+    "Enter the Dungeon/People/Zena.md",
+    "Enter the Dungeon/People/Zelal.md",
+    "Enter the Dungeon/People/Zijdesmith Mixyll.md",
+    "Enter the Dungeon/People/Torden.md",
+    "Images/Torden Young.jpg",
+    "Images/Torden - Cleric of Dumathoin - Young.jpg",
+    "Enter the Dungeon/Sessions/CSI Highlight Reel.md",
+    "Images/Torden - Cleric of Dumathoin.jpg",
+    "Images/Shield of Dumathoin.jpg",
+    "Enter the Dungeon/Sessions/Sessions.md",
+    "Images/Torden - Lyra's Winter Solstice clothes.jpg",
+    "Images/Torden Young.png",
+    "Images/Torden - prestrike.png",
+    "Images/Torden - Impact.png",
+    "Enter the Dungeon/People/Sannl.md",
+    "Enter the Dungeon/People/Rurik.md",
     "Enter the Dungeon/People/Aendril.md",
-    "Enter the Dungeon/Organisations/Cult of Zoros.md",
-    "De Rathirim.md",
-    "Enter the Dungeon/Sessions/Season 7/S07E03.md",
     "Enter the Dungeon/Deities/Aros.md",
-    "Enter the Dungeon/People/Dia.md",
-    "Enter the Dungeon/AGENTS.md",
-    "Images/6af54bb9dbdff638f0fbea578a4a5eab1972b950cbbfef60c75f417519bec904.jpg",
-    "Images/01a2d00ebec1949748187c22ad9feb2afd8dfbf7b4098e3f15435bc3848d80ec.jpg",
-    "Images/b8860f8bd19273ffabe7ed6d919bca9f.webp copy.jpg",
-    "Images/map-6.1-caves-of-hunger-player.jpg",
+    "Images/Unconfirmed 962581.crdownload",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 4.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Images/players.jpeg",
-    "Images/image.png",
-    "Images/IMG_3293.jpeg",
-    "Images/signal-2024-12-14-171925_002.jpeg",
-    "Images/Pasted image 20241002121740.png",
-    "Images/Pasted image 20260307120754.png",
     "IMG_3293.heic",
     "Untitled",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail",
-    "Enter the Dungeon/Locations/Faerun/Cormyr/Untitled",
-    "Enter the Dungeon/Untitled"
+    "Enter the Dungeon/Locations/Faerun/Cormyr/Suzail"
   ]
 }

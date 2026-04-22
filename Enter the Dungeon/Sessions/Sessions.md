@@ -34,3 +34,4 @@ As of the latest season notes, the campaign is in the middle of the [[Cormyr]] a
 - [[Season 5]]
 - [[Season 6]]
 - [[Season 7]]
+- [[CSI Highlight Reel]]

@@ -7,7 +7,6 @@ The Counsel of the Solstice is a discreet syndicate embedded in artistic and ari
 Its members believe the current balance of the Fey Lords is not sacred harmony but a managed system of extraction, sustained by ritualized devotion and political theater. Through coded artworks, occult patronage, and engineered warlock pacts, the Counsel seeks to restore reciprocity between mortals and the divine — draining power from the Lords, redistributing it into human hands, and ultimately dismantling the hierarchy that made gods into sovereigns.
 
 ## **Core Idea**
-
 The Counsel of the Solstice presents itself as a refined society devoted to preserving endangered artistic and ritual traditions tied to the Fey Lords. It sponsors galleries, salons, restorations, masked performances, and private collections, especially those connected to seasonal symbolism, twilight rites, dream iconography, and ancient devotional forms.
 
 In truth, the Counsel believes the current divine order is a usurpation. Before the central divine power was broken and divided among the Fey monarchs and lesser lords, the sacred was not something mortals merely fed through worship. It moved through the world more freely, circulating through ritual, story, art, omen, and communal practice. **The Fey Lords, in the Counsel’s view, turned reciprocity into hierarchy and devotion into extraction.**

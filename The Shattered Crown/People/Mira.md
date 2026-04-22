@@ -1,0 +1,1 @@
+Mira is als baby door haar ouders in een boom geplaatst (the Prophetic Willow). Die boom heeft haar omsloten en is ze 12 jaar opgesloten geweest. De laatste twee jaar was de boom awakened en communiceerde met haar. Twee jaar daarna liet hij haar gaan. Het is Mira niet duidelijk geweest waarom ze opgesloten is geweest, of waarom de boom haar heeft laten gaan.
